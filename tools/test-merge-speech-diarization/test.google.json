@@ -1,0 +1,49 @@
+{
+  "response": {
+    "results": [
+      {
+        "alternatives": [
+          {
+            "words": [
+              {
+                "startTime": "0.100s",
+                "endTime": "0.700s",
+                "word": "Guten"
+              },
+              {
+                "startTime": "0.700s",
+                "endTime": "0.8s",
+                "word": "Morgen"
+              },
+              {
+                "startTime": "0.800s",
+                "endTime": "0.85s",
+                "word": "ich"
+              },
+              {
+                "startTime": "0.85s",
+                "endTime": "0.85s",
+                "word": "bin"
+              },
+              {
+                "startTime": "0.9s",
+                "endTime": "0.99s",
+                "word": "A"
+              },
+              {
+                "startTime": "1s",
+                "endTime": "1.400s",
+                "word": "Aber"
+              },
+              {
+                "startTime": "1.400s",
+                "endTime": "2.800s",
+                "word": "Hallo"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
