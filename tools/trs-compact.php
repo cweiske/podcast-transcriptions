@@ -1,3 +1,4 @@
+#!/usr/bin/env php
 <?php
 /**
  * Compact .trs files:
@@ -52,6 +53,10 @@ foreach ($xpath->query('//Episode/Section/Turn') as $turn) {
         // child
         $children = [];
         foreach ($turn->childNodes as $child) {
+            if ($child instanceof DomText && trim($child->textContent) == '') {
+                //newline before sync
+                continue;
+            }
             $children[] = $child;
         }
         foreach ($children as $child) {
@@ -62,7 +67,6 @@ foreach ($xpath->query('//Episode/Section/Turn') as $turn) {
 
     $lastTurn = $turn;
 }
-echo "--\n";
 
 foreach ($toRemove as $element) {
     $element->parentNode->removeChild($element);
