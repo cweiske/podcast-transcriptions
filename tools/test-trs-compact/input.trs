@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Christian Weiske" audio_filename="test" version="2" version_date="171105">
+ <Speakers>
+  <Speaker id="spkA" name="A" check="no" type="male" dialect="native" accent="" scope="local"/>
+  <Speaker id="spkB" name="B" check="no" type="male" dialect="native" accent="" scope="local"/>
+ </Speakers>
+ <Episode>
+  <Section type="report" startTime="0" endTime="49.34">
+
+   <Turn startTime="0" endTime="2.55" speaker="spkA">
+    <Sync time="0"/>
+    Hello I am A
+   </Turn>
+
+   <Turn startTime="2.55" speaker="spkB" mode="planned" channel="studio" endTime="25.07">
+    <Sync time="2.55"/>
+    Hello I am B
+   </Turn>
+
+   <Turn startTime="25.07" speaker="spkA" mode="planned" channel="studio" endTime="44.56">
+    <Sync time="25.07"/>
+    Some text
+   </Turn>
+
+   <!-- turn without speaker and without text -->
+   <Turn startTime="44.56" endTime="48.13">
+    <Sync time="44.56"/>
+   </Turn>
+
+   <!-- turn that should be merged with pre-previous after previous has been removed (same speaker) -->
+   <Turn startTime="48.13" speaker="spkA" mode="planned" channel="studio" endTime="49.34">
+    <Sync time="48.13"/>
+    More text
+   </Turn>
+
+  </Section>
+ </Episode>
+</Trans>
