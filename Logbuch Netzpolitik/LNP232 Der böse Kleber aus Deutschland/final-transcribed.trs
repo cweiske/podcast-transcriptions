@@ -1,0 +1,1613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Christian Weiske" audio_filename="lnp232-der-boese-kleber-aus-deutschland" version="3" version_date="171106">
+<Topics>
+<Topic id="to1" desc="Prolog"/>
+<Topic id="to2" desc="Intro"/>
+<Topic id="to3" desc="Wahl in Österreich"/>
+<Topic id="to4" desc="Wahlen aus netzpolitischer Perspektive"/>
+<Topic id="to5" desc="Bundesnetzagentur zu StreamOn"/>
+<Topic id="to6" desc="Netzneutralitäts-Meßtool"/>
+<Topic id="to7" desc="Save The Meme"/>
+<Topic id="to8" desc="Termine"/>
+<Topic id="to9" desc="Epilog"/>
+</Topics>
+<Speakers>
+<Speaker id="spkA" name="Tim Pritlove" check="no" type="male" dialect="native" accent="" scope="local"/>
+<Speaker id="spkF" name="Thomas Lohninger" check="no" type="male" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="25.07" topic="to2">
+<Turn startTime="0" endTime="2.55" speaker="spkA">
+<Sync time="0"/>
+Guten Morgen Thomas
+</Turn>
+<Turn startTime="2.55" speaker="spkF" mode="planned" channel="studio" endTime="25.07">
+<Sync time="2.55"/>
+Guten Morgen Tim
+</Turn>
+</Section>
+<Section type="report" topic="to1" startTime="25.07" endTime="87.64">
+<Turn startTime="25.07" speaker="spkA" mode="planned" channel="studio" endTime="48.13">
+<Sync time="25.07"/>
+Logbuch Netzpolitik Nummer 232 und ihr werdet es schon ahnen:
+<Sync time="31.211"/>
+Heute ohne Linus, denn wir haben beschlossen ein kleines Spezial einzuschieben aufgrund der Terminlage
+<Sync time="41.38"/>
+mache ich das jetzt alleine bzw alleine mache ich es natürlich nicht.
+<Sync time="44.56"/>
+Sondern ich begrüße Thomas Lohninger.
+<Sync time="46.76"/>
+Hallo Thomas
+</Turn>
+<Turn startTime="48.13" speaker="spkF" mode="planned" channel="studio" endTime="49.34">
+<Sync time="48.13"/>
+Hallo
+</Turn>
+<Turn startTime="49.34" speaker="spkA" mode="planned" channel="studio" endTime="86.818">
+<Sync time="49.34"/>
+Genau
+<Sync time="49.95"/>
+Du bist ja wie hier wahrscheinlich sowieso alle wissen nicht nur aus Österreich sondern jetzt auch in Österreich und immer in Sachen Österreich unser Primärkorrespondent.
+<Sync time="62.36"/>
+Und da auch in deinem zweiten
+<Sync time="67.09"/>
+Haupthobby Netzneutralität noch einiges passiert ist dachte ich
+<Sync time="71.37"/>
+kloppen wir daraus einfach mal
+<Sync time="73.03"/>
+eine Sendung zusammen bevor ich dann mit Linus da noch relativ bald
+<Sync time="77.76"/>
+wohl die nächste Sendung auch noch mal nachlegen werde aber Linus konnte heute nicht und du kannst morgen nicht und deswegen ist das jetzt so wie es ist.
+<Sync time="85.52"/>
+Stimmts?
+</Turn>
+<Turn speaker="spkF" mode="planned" startTime="86.818" endTime="87.64">
+<Sync time="86.818"/>
+Ja so ist es
+</Turn>
+</Section>
+<Section type="report" topic="to3" startTime="87.64" endTime="1509.21">
+<Turn startTime="87.64" speaker="spkA" mode="planned" channel="studio" endTime="91.58">
+<Sync time="87.64"/>
+Und, bist du noch guter Laune?
+</Turn>
+<Turn startTime="91.58" speaker="spkF" mode="planned" channel="studio" endTime="130.64">
+<Sync time="91.58"/>
+Ja - also inzwischen wieder.
+<Sync time="94.337"/>
+Ich bin da schon durch die Phasen der Trauer durchgewandert
+<Sync time="97.89"/>
+und inzwischen finde ich sehr spannend was in Österreich gerade
+<Sync time="103.19"/>
+los ist - wir haben ja gewählt.
+<Sync time="105.8"/>
+Am letzten Sonntag am 5 Oktober hat Österreich an neuen Nationalrat gewählt.
+<Sync time="111.78"/>
+Diese Wahl war ein ziemlicher Erdrutsch.
+<Sync time="115.07"/>
+Und wir sind heute am Donnerstag wo wir aufzeichnen
+<Sync time="119.72"/>
+Es gibt noch kein amtliches Endergebnis aber
+<Sync time="122.54"/>
+es ist eigentlich schon alles klar was man wissen muss
+<Sync time="126.3"/>
+und das Ergebnis ist auf jeden Fall
+<Sync time="129"/>
+sagen wir mal diskussionswürdig.
+</Turn>
+<Turn startTime="130.64" speaker="spkA" mode="planned" channel="studio" endTime="140.77">
+<Sync time="130.64"/>
+Ist in das eigentlich normal dass es bis zum Endergebnis so lange dauert?
+<Sync time="134.325"/>
+In Deutschland ist das in der Regel schneller - das vorläufige amtliche Endergebnis zumindest, oder wovon sprechen wir jetzt?
+</Turn>
+<Turn startTime="140.77" speaker="spkF" mode="planned" channel="studio" endTime="147.747">
+<Sync time="140.77"/>
+Das Vorläufige ist schon da.
+<Sync time="143.569"/>
+Aber du weißt schon - Wahlen in Österreich, da gibt's hin und wieder Komplikationen.
+</Turn>
+<Turn speaker="spkA" mode="planned" startTime="147.747" endTime="150.85">
+<Sync time="147.747"/>
+Stimmt, die Aufkleber und so - alles mögliche kann da schiefgehen.
+</Turn>
+<Turn speaker="spkF" mode="planned" startTime="150.85" endTime="210.08">
+<Sync time="150.85"/>
+Der böse Kleber aus Deutschland.
+<Sync time="156.04"/>
+Der Hintergrund ist, daß jetzt noch Wahlkarten sozusagen in das richtige das richtige Magistrat gebracht werden müssen um dort final ausgezählt zu werden.
+<Sync time="166.022"/>
+Wir reden noch von ca. 37000 Wahlkarten, die jetzt noch nicht ausgezählt sind.
+<Sync time="171.16"/>
+Und es gibt noch sozusagen eine Schwankungsbreite von 0,2%.
+<Sync time="176.7"/>
+Es ist aber so gut wie ausgeschlossen, daß ich an diesem Wahlergebnis noch etwas hindert
+<Sync time="182.13"/>
+Die Wahrscheinlichkeit ist es jetzt so hoch, daß sich noch mal was ändert, wie damals bei der Präsidentschaftswahl, daß da irgendwelche gefälschten Wahlkarten zu einem Gewinn von Norbert Hofer geführt hätten.
+<Sync time="196.37"/>
+Wir haben ein Ergebnis und das sieht so aus, daß die neue Volkspartei diese Wahl klar gewonnen hat.
+<Sync time="205.325"/>
+Die sind hier - jetzt habe ich gerade das Ergebnis nicht vor mir -
+</Turn>
+<Turn speaker="spkA" mode="planned" startTime="210.08" endTime="211.33">
+<Sync time="210.08"/>
+Die neue Volkspartei? 
+</Turn>
+<Turn startTime="211.33" speaker="spkF" mode="planned" channel="studio" endTime="236.377">
+<Sync time="211.33"/>
+Ja, die haben sich umbenannt.
+<Sync time="213.622"/>
+Die Parteifarbe ist jetzt auch nicht mehr schwarz sondern türkis.
+<Sync time="217.079"/>
+"Neue Volkspartei" ist auch nur ein Teil des Namens, der anderen Name ist "die Liste Sebastian Kurz".
+<Sync time="223.61"/>
+Sebastian Kurz haben wir hier ein Podcast schon mal diskutiert. 
+<Sync time="227.647"/>
+Das ist sozusagen der neue Chef der ÖVP und auch mit sehr hoher Wahrscheinlichkeit unser neuer Bundeskanzler, und 31 Jahre alt.
+</Turn>
+<Turn speaker="spkA" mode="planned" startTime="236.377" endTime="238.663">
+<Sync time="236.377"/>
+Und bisheriger Außenminister muss man dazu sagen
+</Turn>
+<Turn speaker="spkF" mode="planned" startTime="238.663" endTime="271.74">
+<Sync time="238.663"/>
+Und davor war er Staatssekretär für Integration und er ist so der "Rising Star" der österreichischen Politiklandschaft.
+<Sync time="246.899"/>
+Am Anfang wurde er etwas ausgelacht wegen seinem Alter und seiner Ohren, inzwischen lacht glaube ich niemand mehr über ihn.
+<Sync time="253.29"/>
+Sebastian Kurz war auch ein starkes Wahlmotiv für viele Leute.
+<Sync time="261.7"/>
+Der hat einen sehr starken negativ 3 die Konservativen in Österreich, den es seit vier Jahren gab, gestoppt und jetzt sind sie wieder als erster durchs Ziel gelaufen.
+</Turn>
+<Turn startTime="271.74" speaker="spkA" mode="planned" channel="studio" endTime="274.51">
+<Sync time="271.74"/>
+Immerhin siebeneinhalb Prozent mehr.
+</Turn>
+<Turn startTime="274.51" speaker="spkF" mode="planned" channel="studio" endTime="287.13">
+<Sync time="274.51"/>
+Die SPÖ hat es noch auf Platz zwei geschafft mit - ich muss das jetzt alles aus dem Kopf rezipieren -
+</Turn>
+<Turn startTime="287.13" speaker="spkA" mode="planned" channel="studio" endTime="293.03">
+<Sync time="287.13"/>
+26,8%, ich habe den hier das vorläufige Endergebnis
+</Turn>
+<Turn startTime="293.03" speaker="spkF" mode="planned" channel="studio" endTime="430.64">
+<Sync time="293.03"/>
+Das ist mehr als man dachte.
+<Sync time="297.709"/>
+Die SPÖ war in diesem Wahlkampf sehr stark geplagt von Leaks ihrer internen E-Mails und von einem Skandal um dirty campaigning.
+<Sync time="309.429"/>
+Das Ganze hatte in gewisser Weise Parallelen zur US-Wahl, das da eben auch E-Mails nach außen getragen wurden.
+<Sync time="313.988"/>
+Diesmal nicht irgendeinen russischen Heck sondern durch eine Mitarbeiterin, die das Ganze dann mitgenommen hat und an Medien oder eben an andere Unbekannte, die das dann an Medien geleakt haben.
+<Sync time="327.26"/>
+Und das war auf jeden Fall sehr turbulenter Wahlkampf - wo es eben auch Debatten gab um Facebookgruppen, die den Sebastian Kurz negativ dargestellt haben, aber auch welche die ihn positiv dargestellt haben.
+<Sync time="342.485"/>
+Teilweise dann eben sogar mit antisemitischen Witzen und derartigen Dingen.
+<Sync time="348.493"/>
+Das war die Erde rund um Tal Silberstein in und Politikberater aus Israel, der dem Vernehmen nach für die für die SPÖ gearbeitet hat.
+<Sync time="359.22"/>
+Ich rechne mal, daß wir dazu einen Untersuchungsausschuss haben werden in der nächsten Legislaturperiode der sich diesen Skandal in der Nähe anschaut.
+<Sync time="368.73"/>
+Aber ja, die SPÖ hat es trotzdem noch auf Platz 2 geschafft, und dahinter ist die FPÖ, die 26% bekommen hat.
+<Sync time="379.3"/>
+Die wahrscheinlichste Koalition wird auch zwischen konservativen und der FPÖ sein, der rechtspopulistischen rechtsextremen Partei in Österreich.
+<Sync time="391.9"/>
+Das ist aber noch nicht alles im Ergebnis: 
+<Sync time="393.433"/>
+Wir haben die Neos - unsere FDP. Die Liberalen haben den Einzug geschafft.
+<Sync time="400.79"/>
+Die Liste Pilz hat ebenfalls den Einzug geschafft.
+<Sync time="403.774"/>
+Das ist eine Abspaltung der Grünen Partei oder von einem ehemaligen Gründungsmitglied der Grünen, der 30 Jahre für die Grünen im Parlament war dann nicht den Listenplatz bekam den er wollte - also statt 4 Platz 6 - und das hat ihn so aufgeregt (und wahrscheinlich ein paar andere Dinge), daß er dann eben eine neue Partei gegründet hat und die haben den Einzug geschafft.
+<Sync time="425.893"/>
+Die klassischen Grünen in Österreich sind nach 30 Jahren aus dem Parlament geflogen.
+</Turn>
+<Turn startTime="430.64" speaker="spkA" mode="planned" channel="studio" endTime="444.9">
+<Sync time="430.64"/>
+Dieser Pilz ist dieser Peter Pilz?
+<Sync time="435.25"/>
+Die sind jetzt laut dem vorläufigen Endergebnis bei 4,37% gelandet.
+<Sync time="442.01"/>
+Wo ist da die Grenze?
+</Turn>
+<Turn startTime="444.9" speaker="spkF" mode="planned" channel="studio" endTime="446.23">
+<Sync time="444.9"/>
+Wir haben eine Vierprozenthürde.
+</Turn>
+<Turn startTime="446.23" speaker="spkA" mode="planned" channel="studio" endTime="446.77">
+<Sync time="446.23"/>
+Ah ja
+</Turn>
+<Turn startTime="446.77" speaker="spkF" mode="planned" channel="studio" endTime="624.12">
+<Sync time="446.77"/>
+Weswegen die Grünen auch mit 3,8 nicht mehr schaffen werden, auch wenn es noch eine Schwankungsbreite von 0,2% gibt.
+<Sync time="455.44"/>
+Es ist wie gesagt statistisch so gut wie ausgeschlossen, daß da jetzt noch der Einzug geschafft wird.
+<Sync time="461.868"/>
+Und die ca. 120 Mitarbeiter der grüne Bundespartei wurden auch schon beim Arbeitsmarktservice angemeldet.
+<Sync time="470.667"/>
+Hier ist man schon am Rückzug und am abwickeln dieser Bundespartei, die auch nach den letzten Wahlkämpfen, die auch so lange gedauert haben, noch auf einem Riesenberg Schulden steckt.
+<Sync time="485.54"/>
+Da ist schon viel Struktur verlorengegangen.
+<Sync time="491.077"/>
+Die Grünen waren definitiv einer der konstruktivsten Kräfte im österreichischen Parlamentarismus.
+<Sync time="496.21"/>
+Und haben es aber aufgrund einer Verkettung von wirklich für sie sehr negativen Ereignissen nicht geschafft jetzt groß zu mobilisieren.
+<Sync time="507.14"/>
+Sie haben auch irgendwie noch mal grob 190.000 Wähler an die SPÖ verloren.
+<Sync time="512.62"/>
+Auch wenn man Peter Pilz und die Grünen zusammenzählt in den Wählerstimmen hätten sie trotzdem herbe Verluste eingefahren im Vergleich zur letzten Nationalratswahl 2013.
+<Sync time="524.55"/>
+Da ist wirklich vieles schief gelaufen und dann stellt sich da die große Sinnfrage wie es mit den weitergeht. 
+<Sync time="529.872"/>
+Das dominiert auch gerade die innenpolitische Debatte in Österreich.
+<Sync time="533.53"/>
+In Deutschland gab es schon mal sowas, daß die Grünen rausgeflogen sind - in Österreich ist das neu.
+<Sync time="539.13"/>
+Das alles eben vor dem Hintergrund dass wir jetzt sehr wahrscheinlich eine türkisblaue Regierung haben werden.
+<Sync time="549.62"/>
+Auch das hatten wir schon mal - 2000 - damals gabs EU-Sanktionen gegen Österreich.
+<Sync time="555.82"/>
+Mit denen ist dieses Mal nicht mehr zu rechnen, weil daß Rechtspopulisten in in Europa die Regierung stellen, daran hat man sich gewöhnt.
+<Sync time="563.85"/>
+Es wird richtig spannend wie das weitergehen wird.
+<Sync time="567.797"/>
+Weil es auch anzunehmen ist, daß man hier in vielen Dingen versucht, Österreich neu zu bauen.
+<Sync time="575.952"/>
+Sowas wie das Sozialsystem in Österreich, die Pflichtmitgliedschaft in den Sozialpartnerschaften, die in Österreich die Basis für viele arbeitsrechtliche Absicherungen für Mindestlöhne und so weiter sind, die soll aufgehoben werden.
+<Sync time="590.48"/>
+Das wär ein sehr drastischer Einschnitt.
+<Sync time="595.017"/>
+Es gibt doch Debatten um eine Neuausrichtung von Österreich - nicht mehr Richtung Westen sondern Richtung Osten, Richtung Visegrádstaaten.
+<Sync time="601.71"/>
+Die Migrationspolitik die Österreich fahrt ist ja schon sehr ähnlich der von Ungarn.
+<Sync time="608.49"/>
+Es gab skurrile Momente in diesem Wahlkampf, wo sich irgendwie Sebastian Kurz und Heinz-Christian Strache, der Chef der Rechtspopulisten, darum gebattelt haben im Livefernsehduell, wer jetzt Viktor Orban besser kennt.
+</Turn>
+<Turn startTime="624.12" speaker="spkA" mode="planned" channel="studio" endTime="630.96">
+<Sync time="624.12"/>
+Also, daß jetzt die ÖVP, oder wie nennt sich jetzt -
+</Turn>
+<Turn startTime="630.96" speaker="spkF" mode="planned" channel="studio" endTime="636.68">
+<Sync time="630.96"/>
+Neue Volkspartei, du kannst sie ÖVP nennen - das tun die meisten Leute.
+</Turn>
+<Turn startTime="636.68" speaker="spkA" mode="planned" channel="studio" endTime="659.77">
+<Sync time="636.68"/>
+Okay
+<Sync time="637.32"/>
+In der Wikipedia sind ja auch noch schwarz, also das mit dem türkischen sie noch nicht so rum gesprochen zu haben
+<Sync time="642.9"/>
+Daß die jetzt mit der FPÖ zusammengehen wollen - war das von vornerein erklärtes Ziel 
+<Sync time="643.411"/>
+Oder war das sozusagen nur jetzt klar, weil die SPÖ gesagt hat, sie will nicht mehr? 
+<Sync time="653.782"/>
+Oder wollen die - also wer will die alte Koalition nicht fortsetzen? Beide nicht?
+</Turn>
+<Turn startTime="659.77" speaker="spkF" mode="planned" channel="studio" endTime="829.31">
+<Sync time="659.77"/>
+Ich glaube niemand in Österreich will weiterhin eine eine große Koalition von schwarz und rot .
+<Sync time="665.11"/>
+Das hatte Österreich über die längste Zeit, und es hat nur zu ewigem Stillstand geführt.
+<Sync time="672.818"/>
+Deswegen gibt's da sozusagen auch starken Wunsch nach Veränderung.
+<Sync time="676.618"/>
+Das heißt die klassische große Koalition die ja heute gar nicht mehr so groß wäre ist bei vielen Leuten das, was man sozusagen jetzt lang genug probiert hat, und das kann es nicht mehr sein.
+<Sync time="688.817"/>
+Und dann bleibt heute rechnerisch nur noch eine Koalition mit der FPÖ.
+<Sync time="692.98"/>
+Da gibt's jetzt auch eine riesige Debatte darum, vor allem eben bei den Sozialdemokraten.
+<Sync time="700.28"/>
+Eigentlich gab es in in Österreich immer die sogenannte Vranitzky-Doktrin, das heißt keine Koalition der Sozialdemokraten mit den Rechtsextremen.
+<Sync time="712.12"/>
+Da wollte man sich immer davon abgrenzen, ähnlich wie die Union früher gesagt hat: Rechts von uns darf es nichts geben, oder wir würden zum Beispiel nicht mit jedem koalieren.
+<Sync time="722.28"/>
+Und die bricht jetzt an vielen Stellen.
+<Sync time="725.955"/>
+Es gibt schon Landesregierungen wo - Burgendland in dem Fall - die SPÖ mit der FPÖ in Koalition ist.
+<Sync time="733.967"/>
+Gerade aus diesen Teilen Österreichs kommt dann eben auch der starke Wunsch, sich jetzt andere strategische Optionen aufzumachen und auch mit der FPÖ Bundesebene zu koalieren.
+<Sync time="744.58"/>
+Da hält im Moment noch Wien dagegen als größtes Bundesland, was auch diesen Abrutsch der SPÖ, der ansonsten passiert wäre, aufgehalten hat.
+<Sync time="756.786"/>
+Und da gibt's den Bürgermeister Michael Häupl, der immer noch eine ganz starke Ablehnung dieser Position hat, und im Moment taktiert man halt.
+<Sync time="763.661"/>
+Im Moment will man natürlich auch nicht diese Strategie komplett zumachen.
+<Sync time="769.026"/>
+Das hat aber auch den fahlen Beigeschmack, daß die SPÖ jetzt nicht eine klare Oppositionsansage macht, wie es hier in Deutschland passiert ist - und wie ich auch finde, daß es klarer wäre.
+<Sync time="781.39"/>
+Weil da jetzt weiter herum zu diskutieren, das ist das große Problem der Sozialdemokraten.
+<Sync time="785.68"/>
+Sie schaffen es nicht, ihre Flügelkämpfe aufzulösen - egal ob das das Sicherheitsthema ist, das überwachungsthema, die Migrations- oder Ausländerfrage in Österreich.
+<Sync time="795.26"/>
+Bei all diesen Themen versucht man irgendwie so einen Eiertanz zu machen und beide Flügel zufriedenzustellen - und am Ende keine klare Position zu beziehen.
+<Sync time="807.54"/>
+Und das ist glaube ich immer Gift, wenn man sozusagen Politik macht ohne Meinung zu haben oder Positionen zu vertreten.
+<Sync time="812.048"/>
+Aber genau das passiert jetzt gerade hier und sobald das amtliche Endergebnis da es, gibt es einen Auftrag zur Regierungsbildung, den der Bundespräsident Sebastian Kurz aussprechen wird, und dann wird verhandelt.
+<Sync time="825.087"/>
+Theoretisch sind drei Optionen denkbar eben
+</Turn>
+<Turn startTime="829.31" speaker="spkA" mode="planned" channel="studio" endTime="837">
+<Sync time="829.31"/>
+Die großen jeweils zwei, aber das SPÖ und FPÖ hier zusammen gehen kann man doch wohl eher ausschließen oder?
+</Turn>
+<Turn startTime="837" speaker="spkF" mode="planned" channel="studio" endTime="861.951">
+<Sync time="837"/>
+Zumindest nicht unter dem derzeitigen noch-Bundeskanzler/Parteivorsitzenden Sebastian Kern der würde das glaube ich nicht machen.
+<Sync time="845.84"/>
+Es gäbe da irgendwie so Leute, die ihn vom Thron stürzen wollen - Hans Peter Doskozil aus dem Burgenland.
+<Sync time="852.49"/>
+Aber ob die das schaffen würden, vor allem dann auch durch die Parteigremien, sich so eine Koalition absegnen zu lassen, halte ich für sehr unwahrscheinlich.
+</Turn>
+<Turn speaker="spkA" startTime="861.951" endTime="867.64">
+<Sync time="861.951"/>
+Zumal er ja auch den Wahlanteil quasi gehalten hat.
+</Turn>
+<Turn startTime="867.64" speaker="spkF" mode="planned" channel="studio" endTime="868.172">
+<Sync time="867.64"/>
+Genau
+</Turn>
+<Turn speaker="spkA" mode="planned" startTime="868.172" endTime="896.3">
+<Sync time="868.172"/>
+Ist ja nicht so, daß hier es hier so eine historische Niederlage wäre wie für die NPD in Deutschland.
+<Sync time="876.58"/>
+Blicken wir dann doch mal auf die Oppositionseite.
+<Sync time="880.904"/>
+Dadurch, daß die Grünen wegfallen -  das natürlich hart - auch wenn man wahrscheinlich davon ausgehen kann, daß so ein paar der Mitarbeiter sicherlich dann bei der Pilzpartei auftauchen - oder ist das jetzt wieder so eine revolutionärere Zerfleischung im linken Lager, daß das alles komplett neu sich aufstellt?
+</Turn>
+<Turn startTime="896.3" speaker="spkF" mode="planned" channel="studio" endTime="996.987">
+<Sync time="896.3"/>
+Das wird man sehen müssen.
+<Sync time="898.37"/>
+Die Liste Pilz lebt im Moment sehr stark von ihrem Spitzenkandidaten und wie gesagt, der war 30 Jahre lang in dieser Partei für Sie im Nationalrat und dadurch ist das schon eine starke Verbindung da, die natürlich jetzt durch diesen Austritt und diese Gegenkandidatur auch sicherlich in eine Erzfeindschaft übergeschlagen hat.
+<Sync time="923.36"/>
+Ob das gekittet werden kann und man pragmatisch ist oder ob hier Fundamentalopposition angesagt ist weiß ich nicht.
+<Sync time="931.895"/>
+Inhaltlich gibt's schon kleine Unterschiede, wobei das ist vor allem in den Ausrichtungsfragen.
+<Sync time="940.674"/>
+Peter Pilz hat auch teilweise - ich weiß gar nicht ob das rechte Rhetorik nennen kann - aber für ihn war z.B. politischer Islam ein ganz starkes Thema.
+<Sync time="951.393"/>
+Aber da gibt's definitiv auch glaube ich schon nach reale Probleme.
+<Sync time="956.39"/>
+Gleichzeitig ist es natürlich in der Art wie es bringt, führt es wiederum zu Gegenaktionen von anderen Lagern und man wird jetzt sehen welche Politik die Liste Pilz machen wird.
+<Sync time="967.592"/>
+Es ist zu hoffen, daß sich möglichst viele konstruktive Kräfte da wieder verbinden werden, weil es braucht natürlich eine starke innerparlamentarische linke Kraft, ansonsten ist da nicht mehr so viel übrig.
+<Sync time="983.03"/>
+Wie gesagt aber was sind wirklich für Politik gemacht wird wird spannend sein.
+<Sync time="987.93"/>
+Angeblich hat die Liste Pilz auch keinen Klubzwang.
+<Sync time="991.41"/>
+Hatten die Grünen auch nicht laut Statut, ob das dann wirklich in der Praxis so gelebt wird, wird man sehen.
+</Turn>
+<Turn speaker="spkA" mode="planned" startTime="996.987" endTime="999.27">
+<Sync time="996.987"/>
+Was ist der Klubzwang?
+</Turn>
+<Turn speaker="spkF" mode="planned" startTime="999.27" endTime="1077.38">
+<Sync time="999.27"/>
+Der Klubzwang ist die was glaube ich bei euch die Fraktionsdisziplin ist, also daß die Abgeordneten immer mit ihrer Partei stimmen sollen müssen.
+<Sync time="1009.116"/>
+Das ist eigentlich in Österreich verfassungswidrig.
+<Sync time="1011.854"/>
+In der Verfassung sind die Abgeordnete nur ihrem Gewissen verpflichtet.
+<Sync time="1016.04"/>
+Defacto hast du wirklich mit enormen Konsequenzen zu rechnen, wenn man als Abgeordneter gegen die eigene Partei stimmt.
+<Sync time="1022.811"/>
+Dann geht das von: Du wirst am gar nicht mehr gegrüßt, du wirst Zu Sitzungen nicht mehr eingeladen, bis zu härtesten auch öffentlichen Konsequenzen - daß man Leuten über die Medien ausrichtet, was für böse Menschen sie nicht sind.
+<Sync time="1035.33"/>
+Da gab's schöne Beispielen - also sehr schlimme Beispiele in Österreich.
+<Sync time="1038.27"/>
+Sonja Ablinger, die das mal innerhalb der SPÖ gemacht hat.
+<Sync time="1041.81"/>
+Man wird sehen: wie frei und flexibel ist diese Liste Pilz wirklich.
+<Sync time="1047.94"/>
+Es ist zu hoffen, daß sie für die Bürgerrechte und für Netzpolitik progressive Positionen vertreten werden, weil Peter Pilz auch immer ein starker Kämpfer gegen den Überwachungsstaat war.
+<Sync time="1059.29"/>
+Wie sie dann z.B. bei Urheberrechtsthemen sich positionieren werden, wird spannend weil es gibt so Leute wie Alfred Neu??? auf der Liste, die eher so als Hardliner im Urheberrechtsbereich bekannt waren.
+<Sync time="1070.91"/>
+Da wird man sehen wie die sich da positionieren - es sind auch viele Newcomer in dieser Partei.
+</Turn>
+<Turn startTime="1077.38" speaker="spkA" mode="planned" channel="studio" endTime="1081.16">
+<Sync time="1077.38"/>
+Was ist von dieser Neos-Gruppierung zu erwarten?
+</Turn>
+<Turn startTime="1081.16" speaker="spkF" mode="planned" channel="studio" endTime="1168.78">
+<Sync time="1081.16"/>
+Ja die Neos und so eine klassische Bürgerrechte-, klassische neoliberale Partei, sehen sich im liberalen Spektrum.
+<Sync time="1090.45"/>
+Sind definitiv gut für Bürgerrechte, da haben sie auch einen sehr guten Track Record.
+<Sync time="1093.964"/>
+Sind auch in ihrer parlamentarischen Arbeit immer sehr stark gewesen als Kontrollkraft.
+<Sync time="1105.01"/>
+Sie haben eben klar ein Wirtschaftsprogramm was man als liberal einschätzen kann.
+<Sync time="1112.15"/>
+Sie setzen stark auf Bildung.
+<Sync time="1114.74"/>
+Sie haben sich jetzt zuletzt nochmal ein bisschen verbreitert indem Sie Irmgard Griss auf ihre Liste geholt haben.
+<Sync time="1121.423"/>
+Das ist die unabhängige Kandidaten für das Amt des Bundespräsidenten, der Bundespräsidentin, die mit 18 % ein sehr starkes Ergebnis als Unabhängige eingesackt hat.
+<Sync time="1132.38"/>
+Die wird jetzt auch für Sie in den Nationalrat einziehen.
+<Sync time="1135.62"/>
+Und Neos sind sind jetzt auch eben in dieser Liste an Parteien, die eine Zwei-Drittel-Mehrheit verschaffen können.
+<Sync time="1145.33"/>
+In Österreich braucht man natürlich eine Zweidrittelmehrheit für Verfassungsänderungen
+<Sync time="1150.01"/>
+Die haben die großen Koalitionsoptionen derzeit nicht, die jeweils mit zwei Parteien sind, d.h. da brauchen Sie noch eine dritte Partei.
+<Sync time="1158.12"/>
+Es gibt auf jeden Fall viele Fragen wo es spannende Verfassungsmehrheiten gibt wenn schwarz blau und türkis also Neos sich da zusammentun.
+</Turn>
+<Turn speaker="spkA" mode="planned" startTime="1168.78" endTime="1170.87">
+<Sync time="1168.78"/>
+Die Neos haben auch türkis?
+</Turn>
+<Turn speaker="spkF" mode="planned" startTime="1170.87" endTime="1177.84">
+<Sync time="1170.87"/>
+Nein, nein, Hello Kitty ist die Farbe die sie da haben. Pink.
+</Turn>
+<Turn startTime="1177.84" speaker="spkA" mode="planned" channel="studio" endTime="1190.08">
+<Sync time="1177.84"/>
+Na das ist ja sehr übersichtlich.
+<Sync time="1180.43"/>
+Meine Herren.
+<Sync time="1181.268"/>
+Das heißt, die Grünen sind sozusagen auf dem Weg der judäischen Volksfront und der Volksfront von Judäa untergegangen kann man sagen.
+</Turn>
+<Turn startTime="1190.08" speaker="spkF" mode="planned" channel="studio" endTime="1225.4">
+<Sync time="1190.08"/>
+Ja. Diese Abspaltung wurde schon aktiv von Peter Pilz betrieben.
+<Sync time="1194.025"/>
+Da haben die Grünen schon versucht irgendwie das zu verhindern und zusammenzuhalten aber der gab's glaube ich auch schon vorbereitet eben Pläne sich abzuschalten.
+<Sync time="1204.56"/>
+Ja jetzt haben wir auf jeden Fall sozusagen: die klassischen Grünen sind rausgeflogen.
+<Sync time="1209.791"/>
+Liste Pilz würde ich mal als neue Partei ansehen.
+<Sync time="1212.36"/>
+Ob die das Erbe der Grünen antreten wird man glaube ich ihn dann in ein paar Jahren sehen vor allem wenn sie dann in fünf Jahren noch mal kandidieren und den Einzug schaffen - dann kann man vielleicht davon sprechen.
+</Turn>
+<Turn startTime="1225.4" speaker="spkA" mode="planned" channel="studio" endTime="1265.02">
+<Sync time="1225.4"/>
+Meine Herren. Das ist ja ein richtiges Schlachtfest gewesen.
+<Sync time="1231.03"/>
+Ja vor allem ist ja dann sozusagen auch überhaupt gar keine nennenswerte linke Opposition mehr zu erkennen.
+<Sync time="1235.742"/>
+Selbst wenn man noch die Neos da mit rein zählt, was wahrscheinlich schon ein Fehler wäre, kommt man bestenfalls auf 10% der Sitze.
+<Sync time="1247.01"/>
+Noch mal kurz mit der SPÖ. 
+<Sync time="1249.647"/>
+Du meintest ja gerade sie sind nicht so, wie soll ich sagen, noch nicht so auf dem Weg in die Fundamentalopposition, aber das werden sie ja dann zwangsläufig sein, sollte sich die ÖVP - wie das zu erwarten ist - mit der FPÖ einigen können.
+</Turn>
+<Turn startTime="1265.02" speaker="spkF" mode="planned" channel="studio" endTime="1486.13">
+<Sync time="1265.02"/>
+Ja, das wird spannend wie sie aus der Opposition heraus agieren.
+<Sync time="1270.09"/>
+Der Spitzenkandidat Sebastian Kern hat angekündigt, daß er weiterhin in der Politik bleiben wird.
+<Sync time="1278.079"/>
+Das heißt das auch in die Opposition geht, das war davor irgendwie ein bisschen fragwürdig.
+<Sync time="1282.47"/>
+Aber diese Rolle ist ist sicherlich neu für sie.
+<Sync time="1286.64"/>
+Das hatten wir schon mal, daß wir eine ÖVP-Regierung hatten.
+<Sync time="1293.25"/>
+Die Frage ist halt jetzt wie sie das fühlen werden und ich befürchte, daß sich viel an der Struktur von Österreich ändern wird, wenn diese Regierung kommt.
+<Sync time="1305.1"/>
+Und es wird dann an der SPÖ sein, gute Oppositionsarbeit zu machen und nach Möglichkeit dann irgendwie einem Abbau des Sozialstaates entgegenzuwirken.
+<Sync time="1315.4"/>
+So gut sie das dann halt noch kann.
+<Sync time="1317.36"/>
+Das Wichtigste ist für uns immer, daß man nicht anfängt, an rechtsstaatlichen Prinzipien zu rücken - wie wir das ja eben teilweise schon in Polen und in Ungarn sehen.
+<Sync time="1328.17"/>
+Wie gesagt, der Zuspruch Richtung Visegrad-Staaten - auch von der ÖVP - ist teilweise sehr explizit.
+<Sync time="1334.79"/>
+Und es gibt das sehr besorgniserregende Tendenzen.
+<Sync time="1338.36"/>
+Und wenn man sich das im europäischen Kontext anschaut - wir haben schon jetzt das Problem, daß europäische Maßnahmen und Sanktionen gegen Polen aufgrund des Abbaus von dem Verfassungsgerichtshof dort der richtigen politischen Einflussnahme in das Rechtssystem.
+<Sync time="1356.68"/>
+Das man dem nichts entgegensetzen kann, weil Ungarn da blockiert.
+<Sync time="1359.929"/>
+Und jetzt könnte Österreich sozusagen sich diesen Block anschließen und dann sieht es wirklich sehr schlecht aus für die Bürgerrechte in Österreich.
+<Sync time="1368.557"/>
+Das ist für uns auch eine klare rote Linie: wenn man hiert anfängt, irgendwie politische Einflussnahme auf auf die unabhängige Justiz auszuüben, wenn die Höchstgerichte desoliert oder abgebaut werden.
+<Sync time="1383.32"/>
+Wenn man versucht, Gesetze mutwillig in den Verfassungsrang zu heben, obwohl die da nicht hingehören um sie einfach auch dem Zugriff des Verfassungsgerichtshofs zu entziehen.
+<Sync time="1394.2"/>
+Dann sind eindeutig rote Linien stark überschritten.
+<Sync time="1397.592"/>
+Natürlich auch wenn irgendwie Presse und Medienfreiheit eingeschränkt wird.
+<Sync time="1401.59"/>
+Und wir haben kürzlich in weiser Voraussicht einen Solidaritätspakt der Zivilgesellschaft in Österreich gegründet.
+<Sync time="1409.93"/>
+Sowas wie eine NGO-NATO.
+<Sync time="1411.759"/>
+Also wenn gegen eine NGO vorgegangen wird, dann kommen die anderen zum Beistand.
+<Sync time="1417.86"/>
+Sollte da sozusagen auch die die aktive Zivilgesellschaft ins Fadenkreuz kommen, dann haben wir uns schon mit anderen großen NGOs zusammengeschlossen.
+<Sync time="1428.48"/>
+Ich hoffe, wir werden sowas nicht brauchen - aber falls es wirklich schlimm wird, dann sind wir bereit.
+<Sync time="1433.933"/>
+Ich meine Österreich hatte so eine Regierung schon mal.
+<Sync time="1439.09"/>
+Wir leben jetzt schon in anderen Zeiten, aber ich glaube man darf da die Prinzipien keinesfalls irgendwie an die neuen politischen Gegebenheiten anpassen.
+<Sync time="1448.396"/>
+Sondern man muss weiter auf auf Rechtsstaatlichkeit beharren.
+<Sync time="1452.46"/>
+So wie es jetzt ausschaut fehlen der FPÖ- und ÖVP-Koalition neun Mandate auf eine Verfassungsmehrheit.
+<Sync time="1462.286"/>
+Das ist zumindest schonmal gut, das heißt, daß sie da nicht im Alleingang durchregieren kann.
+<Sync time="1469.12"/>
+Wir haben in Österreich keine zweite Kammer, daß heißt es gibt nicht sowas wie eine Sperre, die rein realistisch durch die Bundesländer ausgeübt werden kann.
+<Sync time="1481.25"/>
+Das heißt, das wird alles im Nationalrat sehr spannend die nächsten 5 Jahre.
+</Turn>
+<Turn startTime="1486.13" speaker="spkA" mode="planned" channel="studio" endTime="1509.21">
+<Sync time="1486.13"/>
+Wobei der Bundesrat auch nicht unbedingt gerade ein Bollwerk gegen entsprechende Änderung des Systems darstellt.
+<Sync time="1497.15"/>
+Da kriegt ja die alte Sage von Österreich-Ungarn eine ganz neue Bedeutung, wenn Sie diese Achse tatsächlich auftun würde, dann wird es sicherlich auf europäischer Ebene nicht einfacher.
+</Turn>
+</Section>
+<Section type="report" topic="to4" startTime="1509.21" endTime="2377.31">
+<Turn speaker="spkA" mode="planned" startTime="1509.21" endTime="1538.16">
+<Sync time="1509.21"/>
+Wie sieht denn das jetzt sozusagen aus deiner spezifischen netzpolitischen Bürgerrechtsperspektive?
+<Sync time="1523.67"/>
+Was für Projekte, die jetzt ohnehin schon umstritten waren, drohnen jetzt wieder auf dem Tisch zu kommen?
+<Sync time="1531.212"/>
+Oder in andere Ausrichtung angenommen zu werden, oder ist es noch zu früh das zu sagen?
+</Turn>
+<Turn startTime="1538.16" speaker="spkF" mode="planned" channel="studio" endTime="1602.7">
+<Sync time="1538.16"/>
+Ich glaube das werden jetzt die Koalitionsverhandlungen zeigen.
+<Sync time="1541.95"/>
+Zu befürchten ist, daß es ein neues sogenannte Sicherheitspaket geben wird.
+<Sync time="1548.35"/>
+Darüber haben wir ja auch schon gesprochen.
+<Sync time="1550.793"/>
+Sicherheitspaket - das Überwachungspaket,  wie wir es lieber nennen - konnten wir ja nach 7 monatelanger intensiver Kampagne verhindern.
+<Sync time="1558.91"/>
+Das ist vor der Wahl nicht mehr gekommen.
+<Sync time="1562.32"/>
+Kann ich mir gut vorstellen, daß das Teil des Koalitionsvertrags sein wird, und daß man da wieder versucht den Faden aufzugreifen.
+<Sync time="1571.29"/>
+Das war ein Paket von Maßnahmen, die sehr stark eben auf Überwachung, teils auch auf Massenüberwachung setzen.
+<Sync time="1577.274"/>
+Legalisierung vom Bundestrojaner, Vorratsdatenspeicherung ganz viele andere lustige Sachen.
+<Sync time="1583.48"/>
+Das konnten wir verhindern.
+<Sync time="1585.12"/>
+Das hat auch die FPÖ abgelehnt in der letzten Regierung.
+<Sync time="1589.907"/>
+Und es wird spannend zu sehen ob sie - jetzt wo sie mit hoher Wahrscheinlichkeit das Innenresort sich besorgen werden, vielleicht auch das Justizressort - weiterhin gegen solche Maßnahmen sind.
+</Turn>
+<Turn startTime="1602.7" speaker="spkA" mode="planned" channel="studio" endTime="1607.1">
+<Sync time="1602.7"/>
+Mit welcher Argumentation waren die denn dagegen?
+</Turn>
+<Turn startTime="1607.1" speaker="spkF" mode="planned" channel="studio" endTime="1785.73">
+<Sync time="1607.1"/>
+Das ist ganz lustig.
+<Sync time="1607.949"/>
+Die FPÖ ist ja eine Partei, die eine starke Tradition in den Burschenschaften hat, erst recht seitdem Haider sich da abgespalten hat.
+<Sync time="1614.94"/>
+Der Burschenschaftlerflügel innerhalb der FPÖ ist sehr stark.
+<Sync time="1617.433"/>
+Da gibt's zwei Erzählungen dafür.
+<Sync time="1621.847"/>
+Das eine ist die, die man gerne von der Richtung hört, daß sie eben auf ihre Tradition 1848 die Bürgerrechte wo die Burschenschaften  aufgestanden sind und für Bürgerrechte eingetreten sind, daß das noch in ihnen lebt.
+<Sync time="1634.51"/>
+Es gibt noch sicherlich einen gewissen Kern an Nationalliberalen innerhalb der FPÖ, für die Rechtsstaatlichkeit wichtig ist, die auch einen nicht zu starken Staat haben wollen.
+<Sync time="1647.529"/>
+Der ihnen nicht in Ihrer Privatsphäre, in ihren privaten Bereich, reinregiert, reinschauen kann.
+<Sync time="1655.13"/>
+Gleichzeitig gibt es aber natürlich auch eine gewisse Nähe zu Burschenschaften und zu auch neonazistischen Gruppierungen.
+<Sync time="1665.131"/>
+Auch da gibt's in den letzten Jahren immer wieder Skandale.
+<Sync time="1668.737"/>
+Man muss sagen, daß diese Leute auch immer ausgeschlossen wurden aus der Partei.
+<Sync time="1672.19"/>
+Aber es gab so viele von diesen Skandalen, daß das Personalverhältnis glaube ich unbestreitbar ist.
+<Sync time="1676.8"/>
+Und dadurch gibt's natürlich auch sozusagen eine gewisse Angst, daß eigene Vorfeldorganisationen ins Fadenkreuz solcher staatlischen Überwachungsmaßnahmen kommen.
+<Sync time="1685.72"/>
+Nach außen hin ist die FPÖ aber eine klassische Law-and-Order-Partei, die das Sicherheitsthema auch viele Jahre lang als ihr Thema gesehen hat, in dem Thema auch die meiste Zustimmung das meiste Vertrauen hatte.
+<Sync time="1698.73"/>
+Und das konnte die ÖVP in den letzten Monaten an sich reißen.
+<Sync time="1703.615"/>
+Gerade durch Innenminister Sobotka, der wirklich so das aller extremste an Innenminister der Law-and-Order-Fraktion ist, was man sich vorstellen kann.
+<Sync time="1712.41"/>
+Der hat es geschafft, dieses Thema ein bisschen von der FPÖ zur ÖVP-Seite zu ziehen und deswegen wird's für die FPÖ auch so wichtig, sich dieses Ressort für sich zurückzuholen und da die Themenführerschaft nicht an die Konservativen abgeben zu müssen.
+<Sync time="1725.92"/>
+Dadurch liegt es sozusagen auch in ihrer Hand, aber wird sicherlich bei den Koalitionsverhandlungen jetzt noch ausgedealt werden.
+<Sync time="1734.83"/>
+Sobald es einen Koalitionsvertrag gibt oder auch wahrscheinlich schon während den Verhandlungen werden wir uns als epicenter.works sicherlich da einbringen.
+<Sync time="1743.031"/>
+Wir werden Analysen schreiben, wir werden mit allen Politikern Gespräche führen, um hier immer auf rechtsstaatlichen Garantien zu beharren.
+<Sync time="1752.58"/>
+Es gibt ja interessante Gegenvorschläge, die wir inzwischen auf dem Tisch gebracht haben.
+<Sync time="1756.6"/>
+Was man für die Sicherheit tun könnte, was nicht Massenüberwachung bedeuten würde und was vor allem noch mehr Richtung Prävention, soziale Sicherheit und laizistischer Staat geht.
+<Sync time="1767.178"/>
+Es gäbe ganz viel, was man tun kann gegen Extremismus in einer Gesellschaft von Einrichtungen.
+<Sync time="1775.82"/>
+Ich sag mal, es wird Bürgerrechtsorganisationen brauchen in der nächsten Zeit, damit wir dem Sturm da gewappnet sind.
+</Turn>
+<Turn startTime="1785.73" speaker="spkA" mode="planned" channel="studio" endTime="1830.88">
+<Sync time="1785.73"/>
+Es ist wirklich erstaunlich.
+<Sync time="1789.048"/>
+Man ist ja nun von Österreich schon so einiges gewohnt, und das sowieso immer alles schon noch mal so bisschen rechter veranlagt ist.
+<Sync time="1797.615"/>
+Aber das man noch weiter nach rechts rücken kann, daß macht einen schon irgendwie so ein bisschen fassungslos.
+<Sync time="1805.39"/>
+
+<Sync time="1810.77"/>
+Ich meine, gibt's denn wirkliche richtige Probleme, die jetzt hier von der Linken - ic hsag mal vom linken Spektrum und dann würde ich jetzt mal so pauschal die SPÖ auch noch mal reinnehmen -irgendwie jetzt grob vernachlässigt wurden?
+</Turn>
+<Turn startTime="1830.88" speaker="spkF" mode="planned" channel="studio" endTime="1906.85">
+<Sync time="1830.88"/>
+Das ist eine gute Frage.
+<Sync time="1832.86"/>
+Ich würde jetzt persönlich sagen, daß die SPÖ seit vielen vielen Jahren keine glaubhafte linke Politik mehr macht.
+<Sync time="1837.623"/>
+Daß sie sich in so gut wie keiner Frage wirklich klar positioniert.
+<Sync time="1842.223"/>
+Daß sie auf die großen Herausforderungen unserer Zeit keine Antworten hat, in den Konzepten, die sie vorlegt.
+<Sync time="1848.069"/>
+Daß sie bei so gut wie allen inhaltlichen Fragen einknickt vor der ÖVP und noch im liegen umfällt.
+<Sync time="1854.578"/>
+Sich in so gut wie keiner Verhandlung durchgesetzt hat und das einfach, obwohl sie jetzt die letzten Jahre in der Regierung war, keine sozialdemokratische Politik in Österreich gemacht wurde.
+<Sync time="1867.377"/>
+Ich bin wirklich erstaunt über dieses Wahlergebnis der SPÖ - weil eigentlich hätten sie nach diesem vielen Jahren Regierungsbeteiligung, wo sie so wenig umgesetzt haben, glaube ich auch ein negativeres Ergebnis selber erwartet.
+<Sync time="1883.48"/>
+Gerade mit diesem Wahlkampf, daß sie jetzt weiterhin einer stabilen 26%-Lage verharren, sagt schon irgendwie, daß sich da - glaube ich - auch nicht viel ändern wird.
+<Sync time="1898.054"/>
+Sie haben jetzt wieder die Möglichkeit, Oppositionsarbeit zu machen, aber das ist immer leicht, da Positionen zu vertreten, wenn man sie dann nicht wirklich umsetzen muss.
+</Turn>
+<Turn startTime="1906.85" speaker="spkA" mode="planned" channel="studio" endTime="1929.34">
+<Sync time="1906.85"/>
+Ja na gut, es hat ja dann auch damit zu tun welche Politiker dann letzten Endes die nächsten Karrierepfade dort anstreben.
+<Sync time="1916.028"/>
+Ich meine, wenn jetzt dieselben Vögel nur ein anderes Lied singen, dann überzeugt das wahrscheinlich auch nicht unbedingt jeden sofort, auch wenn das vielleicht .. zu romantisch gedacht ist von mir.
+</Turn>
+<Turn startTime="1929.34" speaker="spkF" mode="planned" channel="studio" endTime="1963.239">
+<Sync time="1929.34"/>
+Es werden spanndende 5 Jahre, sollte die ganze Legislaturperiode durchregiert werden.
+<Sync time="1936.91"/>
+Wer irgendwas für Bürgerrechte tun will, und da auch einen Watchdog der jetzt mit noch mehr Fokus auf das österreichische Parlament schaut, dann kann man uns Spenden als Organisation.
+<Sync time="1951.319"/>
+Wir freuen uns, wenn wir irgendwie die die Mittel bekommen, daß wir diese Regierung im Zaum halten.
+<Sync time="1957.198"/>
+Ich glaube, das ist so die positive Lesart von dem was in den USA passiert für mich.
+</Turn>
+<Turn speaker="spkA" mode="planned" startTime="1963.239" endTime="1965.14">
+<Sync time="1963.239"/>
+Vielleicht solltest du auch noch mal sagen, wer "uns" ist.
+</Turn>
+<Turn speaker="spkF" mode="planned" startTime="1965.14" endTime="2021.7">
+<Sync time="1965.14"/>
+spenden.epicenter.works
+<Sync time="1968.983"/>
+"epicenter.works-Plattform Grundrechtspolitik" ist der ehemalige AK Vorrat.
+<Sync time="1973.52"/>
+Wir sind diejenigen, die sich so für Netzpolitik und Bürgerrechte in Österreich einsetzen.
+<Sync time="1978.9"/>
+Wir haben ein Büro mit Mitarbeitern, die sich um diese Dinge kümmern.
+<Sync time="1986.002"/>
+Wir schreiben viele juristische Analysen, machen Kampagnen.
+<Sync time="1989.329"/>
+Man kennt uns eh von "Save the Internet" von ueberwachungspaket.at und von der Verfassungsklage damals, die Vorratsdatenspeicherung abgeschafft hat.
+<Sync time="1997.93"/>
+Wir haben einen sehr guten Track Record.
+<Sync time="1999.545"/>
+Bis jetzt haben wir fast alles gewonnen, an Themen, die wir bearbeitet haben.
+<Sync time="2005.08"/>
+Wir werden auch sicherlich sehr nah dran sein an diesem Parlament, und werden da versuchen, nach besten Kräften das Schlimmste zu verhindern und vielleicht sogar ein paar positive Projekte auch noch unterzubringen.
+</Turn>
+<Turn startTime="2021.7" speaker="spkA" mode="planned" channel="studio" endTime="2060.2">
+<Sync time="2021.7"/>
+Nochmal eine Nachfrage zu dem - ich fand das eine sehr schöne Formulierung - mit der NGO-NATO.
+<Sync time="2030.46"/>
+Das ist insofern interessant, als daß man ja nun glauben wollen würde, daß eigentlich NGOs ohnehin da schon eine Achse haben sollten wo zusammengearbeitet und füreinander gekämpft wird.
+<Sync time="2044.819"/>
+Hattest du den Eindruck, daß das vielleicht doch so bisher noch nicht so war, das das Bewusstsein dafür noch nicht so da war?
+<Sync time="2052.29"/>
+Oder sagst du das jetzt nur, weil es jetzt nochmal eine besondere Awareness gibt über das, was ohnehin schon existiert?
+</Turn>
+<Turn startTime="2060.2" speaker="spkF" mode="planned" channel="studio" endTime="2155.51">
+<Sync time="2060.2"/>
+Man muss da schon extra Netzwerke bilden, die sich dann auch aktivieren lassen.
+<Sync time="2065.989"/>
+Ich nehm ein schönes Beispiel:
+<Sync time="2067.495"/>
+Es wurde in Österreich dieses Jahr die Versammlungsfreiheit eingeschränkt.
+<Sync time="2072.825"/>
+Demonstrationen sind jetzt weitaus schwieriger durchzuführen, können auch viel leichter verboten werden.
+<Sync time="2077.98"/>
+Das ist ein Thema, wo jeder NGO und auch viele nicht organisierte Menschens aus der Zivilgesellschaft direkt betroffen sind.
+<Sync time="2085.34"/>
+Trotzdem war der Aufschrei bei weitem nicht so laut hier hätte sein können oder sollen.
+<Sync time="2090.7"/>
+In sowas muss man einfach aktive Strukturen haben, die schon organisiert sind - damit man auf den Knopf drückt und dann wissen alle Bescheid und können ihre Schritte einleiten.
+<Sync time="2102.08"/>
+Die Prüfung, die Aktivitäten, die dann die einzeln Gruppen setzen, liegen eh wieder bei Ihnen.
+<Sync time="2106.365"/>
+Aber man muss bereit sein, wenn solche Einschnitt kommen, um dann schnell reagieren zu können.
+<Sync time="2111.857"/>
+Das politische Fenster ist oft nur sehr gering und sehr kurz.
+<Sync time="2116.32"/>
+Dann gehe ich wieder zurück zu den USA:
+<Sync time="2119.132"/>
+Da sehen wir ja auch, wie - obwohl die Regierung ihr Bestes tut, um Dinge zu verkacken - es nur mit viel organisierter Zivilgesellschaft und Medien und am Ende auch Gerichten geht, da die Regierungen im Zaum zu halten.
+<Sync time="2133.359"/>
+Solche Netzwerk gebraucht es einfach, die müssen auch geschärft sein, weil ein ein ein liberaler demokratischer Staat verteidigt sich nicht von selbst.
+<Sync time="2143.187"/>
+Erst recht, wenn die Regierung daran schraubt, muss man bereits sein, rote Linien aufzuzeigen und dann auch ganz laut verbalisieren.
+</Turn>
+<Turn startTime="2155.51" speaker="spkA" mode="planned" channel="studio" endTime="2169.98">
+<Sync time="2155.51"/>
+Find ich einen guten Ansatz.
+<Sync time="2159.108"/>
+Vielleicht noch mal ein bisschen konkreter:
+<Sync time="2160.375"/>
+Wenn du sagst "Netzwerke aufbauen", was heißt denn das was heißt denn das konkret?
+<Sync time="2165.72"/>
+Daß man sich regelmäßig trifft, gibt's ein rotes Telefon?
+</Turn>
+<Turn startTime="2169.98" speaker="spkF" mode="planned" channel="studio" endTime="2240.09">
+<Sync time="2169.98"/>
+Es gibt ein rotes Telefon.
+<Sync time="2171.193"/>
+Das ganze ist noch im Aufbau.
+<Sync time="2172.584"/>
+Wir wollten jetzt mal vor der Wahl mit einer Pressekonferenz rausgehen und haben dieses initiale Bündnis mit einem Grundsatzpapier mal veröffentlicht, in dem auch diese rechtsstaatlichen Prinzipien festgeschrieben sind.
+<Sync time="2186.755"/>
+In dem es Beispiele gibt aus anderen Ländern wovor wir warnen.
+<Sync time="2191.08"/>
+Das heißt, der Grundkonsens ist da.
+<Sync time="2192.832"/>
+Der wird dann bald auf einer Website, die noch nicht online ist, niedergeschrieben sein und dann wird das ganze auch hoffentlich noch wachsen.
+<Sync time="2201.258"/>
+Die Kommunikationskanäle existieren aber schon sollte jetzt etwas passieren.
+<Sync time="2206.31"/>
+Das soll sozusagen wirklich ein Grundkonsens sein, der hat sich nur auf Rechtsstaatlichkeit bezieht, und nicht auf andere Dinge, die uns auch wichtig sind, wie Ökologie oder Sozialrechte.
+<Sync time="2219.79"/>
+Sondern da geht's wirklich sozusagen um den Handlungsspielraum an sich - und nicht die einzelnen Themen.
+<Sync time="2226.37"/>
+Das Konzept findet man dann hoffentlich dieses Jahr noch auf solidaritätspakt.org und kann auch gerne kopiert werden an anderen Stellen, wo es vielleicht auch notwendig ist.
+</Turn>
+<Turn startTime="2240.09" speaker="spkA" mode="planned" channel="studio" endTime="2245.06">
+<Sync time="2240.09"/>
+Wer nimmt daran teil?
+<Sync time="2241.69"/>
+Wenn du NGO sagst, wer ist das dann?
+</Turn>
+<Turn startTime="2245.06" speaker="spkF" mode="planned" channel="studio" endTime="2259.94">
+<Sync time="2245.06"/>
+Das sind eben
+<Sync time="2246.67"/>
+epicenter.works, ATTAC, Greenpeace, global2000
+<Sync time="2251.61"/>
+Das Hilfswerk ist dabei, also auch so aus dem sozialen-kirchlichen Bereich.
+<Sync time="2258.13"/>
+Insgesamt sind es glaube ich 20 NGOs.
+</Turn>
+<Turn startTime="2259.94" speaker="spkA" mode="planned" channel="studio" endTime="2269.43">
+<Sync time="2259.94"/>
+Also auch gar nicht jetzt unbedingt nur so netzorientierte oder netzpolitikorientierte Gruppierung oder so konkret..
+</Turn>
+<Turn startTime="2269.43" speaker="spkF" mode="planned" channel="studio" endTime="2270.574">
+<Sync time="2269.43"/>
+Nein überhaupt nicht.
+</Turn>
+<Turn speaker="spkA" mode="planned" startTime="2270.574" endTime="2274.54">
+<Sync time="2270.574"/>
+Aktivistische Gruppen, sondern es geht schon weiter als das.
+</Turn>
+<Turn startTime="2274.54" speaker="spkF" mode="planned" channel="studio" endTime="2367.25">
+<Sync time="2274.54"/>
+Genau, es sind auch Gewerkschaften dabei.
+<Sync time="2276.583"/>
+Der bekannteste Fall in Österreich, wo gegen einzelne NGOs vorgegangen wird, war auch der Tierschützerprozess rund um den VW Tier.
+<Sync time="2286.466"/>
+Wo Tierschützer auf einmal in ein terroristisches Eck gerückt werden und mit einem sehr obskuren Paragraphen der Bildung einer kriminellen Organisation angeklagt wurden, für 100 Tage im Gefängnis waren, massiv überwacht wurden auch mit eingeschleusten V-Leuten - also verdeckten Ermittlern.
+<Sync time="2306.33"/>
+Und all das hat dann zu nichts geführt.
+<Sync time="2310.202"/>
+Am Ende wurden alle zehn Angeklagten freigesprochen.
+<Sync time="2313.534"/>
+Aber hier ist schon wirklich der Rechtsstaat sehr gebogen worden.
+<Sync time="2317.98"/>
+Man ist einfach gegen legitimen zivilgesellschaftlichen Protest so vorgegangen, als wären das alles Terroristen.
+<Sync time="2324.379"/>
+Das ist immer noch ein mahnendes Beispiel aus der jüngeren Geschichte.
+<Sync time="2330.34"/>
+Insofern es ist ganz wichtig, daß man da über den Tellerrand schaut und eben alle Menschen, die sich auf dem Boden der Verfassung demokratisch einbringen, die haben die Solidarität von anderen zivilgesellschaftlichen Akteuren verdient.
+<Sync time="2345.3"/>
+Wir tun sowas halt auch in weiser Voraussicht, weil - ich will der neuen Regierung noch nichts unterstellen, man muss immer neutral bleiben gegenüber gewählten Volksvertretern, finde ich - aber sollte es irgendwie in eine schlechte Richtung abdriften, dann sind wir bereit.
+</Turn>
+<Turn startTime="2367.25" speaker="spkA" mode="planned" channel="studio" endTime="2377.31">
+<Sync time="2367.25"/>
+Ich wünsche euch da auf jeden Fall viel Erfolg und viel Durchhaltevermögen.
+<Sync time="2371.59"/>
+Meine Güte, und das sind auch noch gleich 5 Jahre und nicht 4.
+<Sync time="2374.46"/>
+Naja.
+</Turn>
+</Section>
+<Section type="report" topic="to5" startTime="2377.31" endTime="3972.03">
+<Turn speaker="spkA" mode="planned" startTime="2377.31" endTime="2499.87">
+<Sync time="2377.31"/>
+Kommen wir zu anderen Begebenheiten in Deutschland.
+<Sync time="2381.756"/>
+Du warst ja auch - habe ich ja auch eingangs erwähnt, wissen ja eigentlich auch alle, aber kann man ja vielleicht trotzdem noch mal bestätigen - schon seit Jahren in Sachen Netzneutralität unterwegs.
+<Sync time="2391.974"/>
+Hast den  ganzen Prozess auf EU-Ebene begleitet und natürlich auch national und hast dich aber auch in Deutschland eingemischt, jüngst erst wieder durch deine schöne Rede auf der Telekom Aktionärsversammlung.
+<Sync time="2410.04"/>
+Schönes Ding.
+<Sync time="2411.35"/>
+Es geht um den Tarif "Stream On".
+<Sync time="2413.9"/>
+"Stream On" steht in der Kritik, mit all diesen frisch beschlossenen Prinzipien der Netzneutralität zu brechen.
+<Sync time="2422.561"/>
+Was heißt "mit all den", aber mit dem Prinzip an sich zu brechen.
+<Sync time="2427.41"/>
+Weil dieser Tarif, der eben offiziell natürlich kostenlos, aber immerhin vertragsgebunden, bestimmten Anbietern die Möglichkeit bietet, empfangen zu werden von den Kunden in diesem Tarif, ohne daß das von den Volumengebühren abgeht.
+<Sync time="2444.184"/>
+Sprich alle anderen, die keinen Vertrag haben, laufen dann zwangsläufig in eine Grenze.
+<Sync time="2451.2"/>
+Da wurde jetzt lange darauf gewartet, daß sich auch bitte mal die Bundesnetzagentur dazu äußern sollte.
+<Sync time="2458.1"/>
+Da die ja hier quasi als aktiver Körper des Regulierer fungiert, und dazu natürlich eine Meinung haben muss.
+<Sync time="2465.199"/>
+Das hat dann sehr sehr sehr lange gedauert, und jetzt kam sie mit ihrem Beschluss dann endlich mal raus.
+<Sync time="2473.482"/>
+Also schön pünktlich nach den Wahlen.
+<Sync time="2477.32"/>
+Ein Schelm wer da Böses denkt, aber auffällig war das schon, daß es so lange gedauert hat.
+<Sync time="2482.601"/>
+Und meint natürlich, das wäre alles super.
+<Sync time="2486.48"/>
+Es gab Dinge, die kritisiert wurden.
+<Sync time="2490.632"/>
+Aber im Wesentlichen kann man doch sagen, hat die Bundesnetzagentur hier "Stream On" eigentlich freien Lauf gegeben, oder?
+</Turn>
+<Turn startTime="2499.87" speaker="spkF" mode="planned" channel="studio" endTime="2821.82">
+<Sync time="2499.87"/>
+Da muss näher hinschauen.
+<Sync time="2502.31"/>
+Was hier passiert ist, ist daß die Bundesnetzagentur - nachdem sie über 5 Monate lang nachgedacht hat, nachgedacht hat, nachgedacht hat, und eigentlich wahrscheinlich unter sehr vielem politischen Druck stand, vor der Wahl nichts mehr zu tun - dann jetzt doch vor ein paar Wochen einen Brief an die Deutsche Telekom geschickt hat, auf Basis von Paragraph 126 des deutschen Telekommunikationsgesetzes:  "Untersagung".
+<Sync time="2534.15"/>
+Im Grunde hat sie "Stream On" aufgrund ihrer Prüfung bei einigen Stellen gesagt:
+<Sync time="2542.243"/>
+Das widerspricht gegen geltendes EU-Recht und deswegen muss es untersagt werden.
+<Sync time="2547.63"/>
+Ihr habt jetzt hier eine Frist in der hier nachbessern könnt.
+<Sync time="2552.31"/>
+Diese Frist kann wahrscheinlich noch mal verlängert werden, da kann man noch herumstreiten.
+<Sync time="2556.91"/>
+Aber der Tarif - so wir er jetzt ist - kann auf jeden Fall nicht bestehen bleiben.
+<Sync time="2561.96"/>
+Die Frage ist, worin genau liegt jetzt sozusagen das Problem mit Stream On.
+<Sync time="2567.317"/>
+Wir haben immer gesagt: Es gibt Dinge, die ganz klar sind und Dinge die case-by-case sind.
+<Sync time="2572.473"/>
+Die Drosselung, die bei dem mittleren Tarif von Stream On ist - da wo Video auf die tolle DVD Qualität der 2000er Jahre reduziert wird - das ist klar ein Verstoß gegen die Netzneutralität.
+<Sync time="2588.329"/>
+Da gibt's gar keine Frage, das hätte man irgendwie in einer Woche untersagen können.
+<Sync time="2592.38"/>
+Dann gibt es das Zero-Rating wo man genauer hinschauen muss.
+<Sync time="2595.198"/>
+Wo wir aber auch klar sagen, das kann nur illegal sein angesichts der niedrigen Datenvolumen in Deutschland.
+<Sync time="2601.97"/>
+Was wird jetzt passieren?
+<Sync time="2603.595"/>
+Diese Untersagung, darauf muss die Telekom reagieren.
+<Sync time="2607.52"/>
+Den genauen Text dieser Untersagung kennen wir nicht, da ist nur durch die Medien ein bisschen was nach außen gesickert.
+<Sync time="2613.95"/>
+Wo die Bundesnetzagentur auch auf jeden Fall klar moniert hat, ist daß Stream On ja nicht im europäischen Ausland funktioniert, sondern nur innerhalb von Deutschland.
+<Sync time="2626.25"/>
+Das widerspricht klar den Bedingungen der der Roamingverordnung, die ja dieselbe Verordnung ist wie Netzneutralität.
+<Sync time="2634.558"/>
+Wir erinnern uns an diesen Treppenwitz, daß man politisch Netzneutralität und Roaming zusammengezogen hat in ein Gesetz, und auch gegeneinander abgedealt hatte:
+<Sync time="2643.949"/>
+Wir nehmen der Telekomindustrie bei Roaming ein bisschen was weg, und dafür geben wir Ihnen laxere Netzneutralitätsregeln.
+<Sync time="2653.57"/>
+Der Treppenwitz ist jetzt, daß sich das scheinbar rächen könnte und daß das Roaming dann eben auch für Zero-Rating-Tarife gelten muss.
+<Sync time="2664.236"/>
+Das heißt, ich muß Stream On auch in Österreich in Frankreich, wo auch immer ich bin, nutzen kann.
+<Sync time="2669.48"/>
+Das Datenvolumen von z.B. YouTube, daß ich über Stream On in Frankreich nutze, darf nicht gegen mein normales Datenvolumen gezählt werden.
+<Sync time="2681.1"/>
+Da gibt es auch schon lustige Artikel auf Golem, die das analysieren und die haben im Grundsatz recht.
+<Sync time="2686.94"/>
+Was dabei übersehen wird: Es gibt ja immer noch Roaminggrenzen.
+<Sync time="2694.06"/>
+Es gibt ja immer noch eine Begrenzung für das Datenvolumen, was ich im europäischen Ausland verwenden darf.
+<Sync time="2702.73"/>
+Das bemisst sich nach einer interessanten Formel.
+<Sync time="2705.949"/>
+Da muss man den Nettopreis des Tarifs nehmen, also das Kundengeld pro Monat, das dividiert man durch 7,7 mal 2 - und das sind die Gigabyte, die man im europäischen Ausland nutzen darf.
+<Sync time="2718.83"/>
+Und das ist teilweise jetzt schon über dem normalen Datenguthaben, was die Magenta-Tarife der Deutschen Telekom haben.
+<Sync time="2726.698"/>
+Das liegt so in dem Bereich, für den es Stream On gibt - jetzt aus dem Kopf irgendwo zwischen 8 und 15 Gigabyte.
+<Sync time="2734.222"/>
+Das darf man sozusagen nutzen an Roamingguthaben, und das ließe sich dann eben auch für Stream On ge-zero-ratete Dienste komplett gratis nutzen.
+<Sync time="2747.91"/>
+Wie gesagt, es ist interessant zu sehen, dass es schon über dem eigentlichen Datenguthaben der Magenta-Tarife liegt.
+<Sync time="2757.91"/>
+Das heißt, die Telekom wird es hier von zwei Seiten angegriffen:
+<Sync time="2762.21"/>
+Einerseits in den mittleren Tarifen, wo sie den Leuten ja nur irgendwie ganz wenig Gratisvideodatenvolumen geben wollte durch diese Drossel - da fällt wahrscheinlich die Drossel weg, da müssen sie diesen Leuten auf einmal viel mehr an Gratisdatenvolumen schenken.
+<Sync time="2779.4"/>
+Gleichzeitig haben sie durch das Roaming jetzt höhere Kosten, weil wenn die neue Kunde der Deutschen Telekom irgendwo im europäischen Ausland jetzt über die Nacht ganz viel YouTube schaut, dann muss die Deutsche Telekom dem lokalen Netzbetreiber Geld zahlen.
+<Sync time="2796.286"/>
+Sogenannte Vorleistungsentgelte.
+<Sync time="2798.56"/>
+Jedes Jahr wird das mehr, diese Zahl 7,7 in der vorgenannten Formel, wird immer pro Jahr weniger, bis irgendwann mal 2,2 Euro pro Gigabyte betragen wird.
+<Sync time="2812.11"/>
+Das heißt, die Kosten für die europäischen Vorleistungsentgelte werden immer niedriger.
+<Sync time="2816.39"/>
+Das heißt, wir kriegen pro Jahr mehr Datenvolumen, was wir in Europa nutzen können.
+</Turn>
+<Turn startTime="2821.82" speaker="spkA" mode="planned" channel="studio" endTime="2830.15">
+<Sync time="2821.82"/>
+Wann läuft das aus?
+<Sync time="2823.814"/>
+Ist das dann irgendwann mal an so einem Punkt, wo man überhaupt nichts mehr extra zahlt oder keine Einschränkung hat?
+</Turn>
+<Turn startTime="2830.15" speaker="spkF" mode="planned" channel="studio" endTime="2980.294">
+<Sync time="2830.15"/>
+Ja, mein zweiter Rechner auf dem ich hier tippen kann hat gerade kein Netz, deswegen aus dem Kopf heraus glaube ich -
+<Sync time="2838.57"/>
+2022, bis dahin das jetzt läuft, das sind jetzt 4, 5 Jahre die jetzt progressiv dieses Vorleistungsentgeld gesenkt wird.
+<Sync time="2848.85"/>
+Bis es am Ende eben bei 2,2 ist.
+<Sync time="2851.31"/>
+Das Spannende ist aber, das man eigentlich in Deutschland jetzt schon fast mit einem europäischen Tarife aus dem Ausland besser fährt.
+<Sync time="2859.709"/>
+Wenn man hin und wieder wenigstens in einem anderen Land ist, sollte man das auf jeden Fall probieren.
+<Sync time="2866.9"/>
+Das große Problem des Zero-Ratings in Deutschland ist eigentlich, daß die Datenvolumen zu niedrig sind.
+<Sync time="2874.03"/>
+Wir sehen ja jetzt auch, daß Vodafone mit seinem neuen Angebot in dieselbe Kerbe schlägt, anstatt daß man das Datenvolumen für die Kunden erhöht, wie es im europäischen Vergleich längst überfällig wäre.
+<Sync time="2888.39"/>
+So schafft man diese Zero-Rating-Programme, die es den Kunden dann eben auch wieder nur erlauben, ausgewählte Dienste zu nutzen.
+<Sync time="2896.35"/>
+Diese Art von Zero-Rating schafft einfach eine, ist die schlecht für den Wettbewerb, weil natürlich als Diensteanbieter gehe ich nur zu einem großen Mobilfunkern und schreibe mich dort in Verträge ein.
+<Sync time="2909.4"/>
+Auch als Endkunde habe ich dann natürlich die Wahl zwischen überall niedrigem Datenvolumen oder ich gehe zu so einem Zero-Rating-Angebot.
+<Sync time="2920.14"/>
+In Wirklichkeit müsste die Bundesnetzagentur Stream On verbieten.
+<Sync time="2923.763"/>
+Und dann müsste die Deutsche Telekom - schon um ihre jetzigen Kunden nicht zu verlieren - die Datenvolumen erhöhen.
+<Sync time="2930.73"/>
+Das würde das Problem auch abschließend lösen und würde Deutschland endlich irgendwie auf ein vergleichbares europäisches Niveau bringen.
+<Sync time="2938.53"/>
+Das ist auf jeden Fall nur eine halbherzige Entscheidung, die trotzdem die Telekom unter Druck setzt.
+<Sync time="2947.62"/>
+Was jetzt hier passieren wird ist, daß in dem Verfahren wird die Telekom auf jeden Fall versuchen, so lange hinauszuzögern wie es irgendwie geht, weil sie auch um die Drossel kämpfen wollen.
+<Sync time="2958"/>
+Auch beim Zero-Rating werden Sie diese Lesart nicht hinnehmen, und das ganze wird ultimativ auch vor Gericht landen.
+<Sync time="2966.53"/>
+Vodafone und die Telekom werden auf jeden Fall an ihren Tarifen festhalten, deswegen liegt es auch an der Telekom, schnell Nägel mit Köpfen zu machen.
+<Sync time="2977.93"/>
+Und auch möglich transparent zu sein.
+</Turn>
+<Turn speaker="spkA" mode="planned" startTime="2980.294" endTime="2985.78">
+<Sync time="2980.294"/>
+Aber die Bundesnetzagentur wird doch irgendeine Frist genannt haben?
+</Turn>
+<Turn speaker="spkF" mode="planned" startTime="2985.78" endTime="3017.94">
+<Sync time="2985.78"/>
+Ich glaube die offizielle Frist sind 2 Wochen.
+<Sync time="2989.44"/>
+Das heißt jetzt ist die Frage eben, ob die Telekom um die Verlängerung dieser Frist ansucht.
+<Sync time="2997.313"/>
+Im Grunde müssten diese zwei Wochen jetzt im Oktober noch auslaufen.
+<Sync time="3003.47"/>
+Theoretisch könnte Stream On jetzt irgendwie dieser Tage verboten werden, zumindest in der Form.
+<Sync time="3010.14"/>
+Wenn die Telekom nachbessert .. - aber wie gesagt das Ganze wird ultimativ sowieso vor Gericht landen.
+</Turn>
+<Turn startTime="3017.94" speaker="spkA" mode="planned" channel="studio" endTime="3141.79">
+<Sync time="3017.94"/>
+Hilf mir mal ein bisschen zu verstehen.
+<Sync time="3019.36"/>
+Ich grübel die ganze Zeit schon darüber, was eigentlich die Telekom - mal abgesehen jetzt von so einem Marketingeffekt - vielleicht ist das auch der einzige, den Sie sich wünschen - davon hat.
+<Sync time="3035.27"/>
+Klar: Mit einem attraktiven Tarif, denn jetzt alle toll finden, könnten sie ja im Prinzip neue Kunden gewinnen.
+<Sync time="3041.421"/>
+Ich würde mal sagen, darum geht es primär.
+<Sync time="3043.79"/>
+Das tun sie ja vielleicht, auch weiß ich nicht.
+<Sync time="3046.64"/>
+Telekom ist ja in Deutschland was Datenvolumen betrifft eigentlich der schlechteste Anbieter.
+<Sync time="3052.688"/>
+Vodafone ist da ist auch nicht so sehr viel besser.
+<Sync time="3055.53"/>
+Sprich, die beiden großen, die eigentlich die niedrigsten Volumina anbieten -
+<Sync time="3061.54"/>
+Was heißt die beiden großen, es gibt ja nur noch 3, wir haben eine Trinität von Anbietern.
+<Sync time="3067.184"/>
+Und O2 hat halt durchgehend bessere Angebote, dann gibt's noch diese ganzen Reseller, die teilweise auch noch mal bessere Angebote haben - aber dann eben mit bestimmten Features, die nur die Telekom hat, wiederum nicht wählen können.
+<Sync time="3080.954"/>
+Da gibt es z.B. diese lustige Option, dass man sich so für einen Tag für 5 € mal komplett freikaufen kann.
+<Sync time="3087.201"/>
+Es gibt auch einen unlimitierten Vertrag glaube ich bei der Telekom in der Größenordnung von 200 €.
+<Sync time="3093.081"/>
+Es ist jetzt nicht so, daß es das gar nicht gäbe.
+<Sync time="3095.125"/>
+Es ist nur so, daß die Preise dafür erheblich viel höher sind, als man das aus dem Ausland kennt - wo man teilweise für 20-30 € in den skandinavischen Ländern entweder sehr hohe Volumina bis hin zu Flatrates erhält bereits.
+<Sync time="3110.29"/>
+Wenn jetzt also Telekom sagt: Okay, wir machen jetzt hier so ein Tarif und die populärsten Angebote wie z.b. YouTube wo ich mal fast vermuten würde, daß das schon so gut wie die Hälfte des nennenswerten Traffics ausmacht, weil das einfach so ein mega populärer Dienst ist und die Daten die darüber gehen halt auch nicht gerade gering sind, dann haben sie diese Kosten für die Daten ja ohnehin.
+<Sync time="3131.84"/>
+Was würde es sie denn nennenswert noch extra kosten, diese Diskriminierung aufzugeben? Das verstehe ich nicht so richtig.
+</Turn>
+<Turn startTime="3141.79" speaker="spkF" mode="planned" channel="studio" endTime="3504.339">
+<Sync time="3141.79"/>
+Das ist genau die Gretchenfrage, die es zu beantworten gilt, und die nicht für die Bundesnetzagentur Ausland heute ausschlaggebend sein sollte.
+<Sync time="3149.91"/>
+Anstatt jetzt einfach mehr Datenvolumen für die Kunden zu geben.
+<Sync time="3154.173"/>
+Die Tatsache, daß es Stream On gibt, ist der Beleg dafür, dass das a) das Netz die Kapazitäten für dieses Datenvolumen hat und b) die Leute schon längst dafür zahlen, und auch durch die monatlichen Grundentgelte dieses Netz erhalten und ausgebaut werden kann.
+<Sync time="3172.59"/>
+Wir haben jetzt den Beleg dafür, daß die Leute schon längst für was zahlen, was sie nicht kriegen.
+<Sync time="3179.89"/>
+Anstatt, daß die Telekom den Leuten einfach mehr Datenvolumen gibt, hat sie diesen Weg gewählt:
+<Sync time="3185.347"/>
+Ein komplexes System zu machen, wo sie die Kunden und die Diensteanbieter gegeneinander ausspielen kann.
+<Sync time="3192.89"/>
+Wo sie im Grunde gegenüber den Dienstanbietern wie YouTube, wie Spiegel-Online, die da alle dabei sind sozusagen mit ihrem großen Kundenstamm werben kann:
+<Sync time="3204.09"/>
+Kommt zu uns. Ihr habt ihr dann die Pole-Position gegenüber unseren vielen vielen Kunden, und das ist für euch gut weil dann euer Dienst mehr genutzt werden kann - wir machen sogar Werbung für eure Marken auf unseren Produktseiten - und wir haben sozusagen hier einen Deal, der ist zwar nicht monetär, aber ihr bindet euch an uns.
+<Sync time="3224.0"/>
+Ihr macht unser Produkt attraktiver und wir eures.
+<Sync time="3227.58"/>
+Gegenüber dem Kunden ist es dann einfach so: Ich will diese Dienste nutzen.
+<Sync time="3232.672"/>
+Das sind die großen Dienste die ich jetzt gerade kenne und nutze.
+<Sync time="3235.68"/>
+Welchen Anbieter wähle ich noch mal?
+<Sync time="3239.045"/>
+Ich kann jetzt irgendwie in Gigabyte rechnen, aber ich weiß vielleicht eh nicht wie viel Gigabyte jetzt so ein Netflixvideo ausmacht.
+<Sync time="3245.59"/>
+Ich gehe einfach zu dem Anbieter, der mir Netflix dazu gibt.
+<Sync time="3249.79"/>
+Dadurch habe ich sozusagen Kommodifizierung das Internets.
+<Sync time="3253.413"/>
+Das ist nicht mehr in Universaldienst, sondern auch für den Kunden ist das Logo, die Marke der einzelnen Diensteanbieter, ein Anreiz für dieses Zugangsprodukt.
+<Sync time="3262.54"/>
+Die Telekom schafft es damit, sich in einer sehr einzigartige Position am Markt zu bringen, die sie gegenüber beiden Seiten dieses doppelten Markt ist sehr attraktiv macht.
+<Sync time="3275.414"/>
+Sie ist der Gatekeeper.
+<Sync time="3277.06"/>
+Auch wenn andere Anbieter jetzt mit ähnlichen Produkten kommen, und Vodafone Pass hat das jetzt schon getan, sind die nur noch die zweiten - noch dazu mit dem komplexeren System - sehr viel schwieriger es haben werden, da auf Augenhöhe zu kommen.
+<Sync time="3294.08"/>
+Was die Anzahl an Diensten anbetrifft.
+<Sync time="3298.136"/>
+Auch was die Anzahl an Kunden betrifft, weil bei Vodafone muss ich auf einmal zahlen, um Pässe zu bekommen, um diese Dienste nicht mehr von meinem Datenvolumen abgezogen zu bekommen.
+<Sync time="3309.24"/>
+Damit schafft man einfach eine Zementierung der Marktposition.
+<Sync time="3315.62"/>
+Kein kleiner Mobilfunkanbieter hätte so ein Produkt auf den Markt bringen kann, das kann nur die Telekom.
+<Sync time="3323.72"/>
+Sie schafft damit natürlich auch hinter sich eine lange Betonspur, wo nichts mehr wachsen kann.
+<Sync time="3332.3"/>
+Weil bis irgendein anderer Anbieter da hinterherkommt, dauert es schon sehr lange.
+<Sync time="3338.94"/>
+Dadurch ist das jetzt einfach mal sowohl schlecht für den Mobilfunkmarkt, wie eben auch schlecht für den europäischen Binnenmarkt und den Inhaltemarkt.
+<Sync time="3350.34"/>
+Es ist halt einfach als kleines Unternehmen, oder als kleiner Radiosender - es sind jetzt zusehends Lokalradiosender bei Stream On dabei - wie viele solche Zero-Rating-Angebote kann ich abschließen?
+<Sync time="3362.61"/>
+Werde ich jetzt irgendwie auch mit einem österreichischen Mobilfunkanbieter vielleicht so ein Zero-Rating-Angebot abschließen?
+<Sync time="3370.58"/>
+Werde ich das irgendwie auch mit einem kleinen virtuellen Mobilfunker machen?
+<Sync time="3375.59"/>
+Wahrscheinlich nicht, weil die Vertragsbedingungen sind schon mal nicht kompatibel.
+<Sync time="3379.518"/>
+Bei Vodafone kennen wir sie gar nicht, weil da muss ich zuerst einen Non-Disclosure-Agreement, also einen Verschwiegenheitsvertrag, unterschreiben, bevor ich die Tarifbestimmungen kenne.
+<Sync time="3388.248"/>
+Und auch die technischen Bedingungen dieser verschiedenen Zero-Rating-Angebote werden nicht kompatibel sein, so daß ich mich dann vielleicht noch technisch und entscheiden muss: Mach ich jetzt irgendwie zwei Versionen eines Dienstes?
+<Sync time="3400.29"/>
+Passe ich den regelmäßig an, um mit all diesen Zero-Rating-Angeboten noch konform zu sein?
+<Sync time="3405.74"/>
+Auf einmal habe ich nicht mehr dieses Grundprinzip des Internets: Du bist von Tag eins mit deinem Dienst global gleich gut verfügbar wie alle anderen.
+<Sync time="3414.03"/>
+Sondern auf einmal musst du Verträge machen mit jedem lokalen Wegeherrscher der dieses lokale Netzwerk hat, um dort noch verfügbar oder gleich gut verfügbar zu sein.
+<Sync time="3424.96"/>
+Da geht einfach das Grundprinzip des Internets verloren.
+<Sync time="3428.51"/>
+Noch dazu gibt's viele Dienste, die prinzipielle ausgeschlossen sind von Stream On.
+<Sync time="3432.4"/>
+Alles, wo du ohne DRM arbeitest, wo du Inhalte auch frei nutzen kannst, runterladen kannst, außerhalb der App nutzen kannst -  und wo es vielleicht gar keine App gibt.
+<Sync time="3442.77"/>
+Stream On ist nämlich auch eingeschränkt auf Mobilfunkgeräte.
+<Sync time="3448.145"/>
+Du dürftest theoretisch gar nicht tethern mit Stream On und dann sozusagen das Netflix auf dem Browser von deinem Laptop sollte gar nicht gehen über Stream On, sondern das ist nur immer in Apps gedacht.
+<Sync time="3463.39"/>
+Wodurch auch die Geräte Freiheit eingeschränkt ist, die auch in der Netzneutralitätsverordnung steht.
+<Sync time="3467.688"/>
+Hier gibt es viele negative Konsequenzen, die aber von der Telekom in Kauf genommen werden - weil sie sich damit selbst was Gutes tut.
+<Sync time="3475.215"/>
+Das ist schon innerhalb von Deutschland hochproblematisch, weil du jetzt einfach dieser wirklich desaströse Volumensituation -- an der hätte sich etwas ändern müssen.
+<Sync time="3488.62"/>
+Durch diese Zero-Rating-Angebote und werdet ihr wahrscheinlich ein paar Jahre lang damit leben müssen, bis da irgendwer mal wieder mutig genug ist ein Angebot zu machen.
+<Sync time="3498.5"/>
+Mit der Telekom jetzt zu konkurrieren als kleiner Anbieter wird sehr schwierig sein.
+</Turn>
+<Turn speaker="spkA" mode="planned" startTime="3504.339" endTime="3553.28">
+<Sync time="3504.339"/>
+Das ist nämlich genau ein Punkt, den man betonen sollte.
+<Sync time="3507.817"/>
+Auf der einen Seite wird ja bei Netzneutralität jetzt immer argumentiert: Es sei ja nicht gut für die Anbieter im Internet weil die nicht gleich behandelt werden.
+<Sync time="3518.346"/>
+Aber es ist ja genauso auch ein Problem für die Vielfalt im Mobilfunkbereich aus den von dir genannten Gründen.
+<Sync time="3528.126"/>
+Von daher ist das sozusagen in jeder Hinsicht doof.
+<Sync time="3532.85"/>
+Seufz.
+<Sync time="3534.271"/>
+Hast du da einen Einblick wie sich das unter Umständen weiter eskalieren ließe?
+<Sync time="3545.099"/>
+Ich meine, wenn hier gegen eine europäische Richtlinie verstoßen wird - wir reden von einer Richtlinie, ja?
+</Turn>
+<Turn startTime="3553.28" speaker="spkF" mode="planned" channel="studio" endTime="3554.5">
+<Sync time="3553.28"/>
+Einer Verordnung.
+</Turn>
+<Turn startTime="3554.5" speaker="spkA" mode="planned" channel="studio" endTime="3578.16">
+<Sync time="3554.5"/>
+Ah, wir reden von einer Verordnung, das ist bindend.
+<Sync time="3557.36"/>
+Wenn jetzt gegen diese Verordnung verstoßen wird, oder wenn zumindest begründeter Anlass dazu besteht, dann müsste das ganze ja im Prinzip von einem deutschen Gericht in Richtung Europa eskaliert werden um da eine Entscheidung zu bekommen.
+</Turn>
+<Turn startTime="3578.16" speaker="spkF" mode="planned" channel="studio" endTime="3704.46">
+<Sync time="3578.16"/>
+Das ist die Frage.
+<Sync time="3581.91"/>
+Wir sind in Vorbereitungen diesbezüglich.
+<Sync time="3584.786"/>
+Mehr kann ich dazu jetzt nicht sagen.
+<Sync time="3587.39"/>
+Wenn es deutsche Juristen gibt, die sich vor allem in öffentlichem Recht, Telekomrecht auskennen und da irgendwo die deutschen Spezifika kennen, dürfen Sie sich gerne bei uns melden.
+<Sync time="3597.425"/>
+Wir sind in Vorbereitung für die Möglichkeit da irgendwo noch ein bisschen nachzutreten.
+<Sync time="3603.966"/>
+Aber der Ball liegt immer noch bei der Bundesnetzagentur.
+<Sync time="3608.761"/>
+Ich hoffe, daß das möglich transparent gespielt wird.
+<Sync time="3611.46"/>
+Ich hoffe auch, daß es schon mal jetzt irgendwie endlich Zahlen gibt, über diese ganzen Sign-up-Prozesse von Stream On und auch dann bei Vodafone Pass.
+<Sync time="3622.6"/>
+Man merkt jetzt schon, daß Vodafone hier eine Verschwiegenheitserklärung verlangt.
+<Sync time="3628.75"/>
+Die tun sie eigentlich nur wegen der Analyse von unabhängiger Seite, daß da jetzt irgendwie Stakeholder wie netzpolitik.org, wie die Verbraucherzentralebundesverband sich diese Produkte näher angeschaut haben.
+<Sync time="3642.62"/>
+Das will Vodafone vermeiden, indem Sie hiermit Vertragsstrafen drohen.
+<Sync time="3647.33"/>
+Ich will nur mal kurz auf die europäische Ebene kommen.
+<Sync time="3652.9"/>
+Wir haben auch eine Situation, daß das ganze dann auch auf europäischer Ebene nicht durchzuhalten ist.
+<Sync time="3660.974"/>
+Wenn wir uns überlegen, wir haben einen europäischen digitalen Binnenmarkt, und jetzt gibt es überall in ganz Europa solche Zero-Rating-Angebote, ja dann muss ich irgendwie in 24 Amtssprachen Verträge abschließen, mit potentiell tausenden von Internetprovidern um noch verfügbar zu sein.
+<Sync time="3676.858"/>
+Also im Grunde ist es auch eine Frage für die anstehende Novelle von besagter Netzneutralitätsverordnung, dieses Problem zu erkennen und was dagegen zu tun.
+<Sync time="3686.01"/>
+Das wird dann nach der nächste EU-Wahl sein.
+<Sync time="3690.21"/>
+Aber ich glaube, daß wir da auch auf eine Situation zusteuern, wo man mit einem Auge eben sieht, daß das ein Problem ist und irgendwas dagegen tun muss.
+<Sync time="3700.999"/>
+Ansonsten gibt es einfach bald keine digitalen Binnenmarkt mehr.
+</Turn>
+<Turn startTime="3704.46" speaker="spkA" mode="planned" channel="studio" endTime="3709.13">
+<Sync time="3704.46"/>
+Wie sieht denn das unser Kommissar, der Herr der Ansip?
+</Turn>
+<Turn startTime="3709.13" speaker="spkF" mode="planned" channel="studio" endTime="3837.88">
+<Sync time="3709.13"/>
+Der schreibt dazu noch.
+<Sync time="3710.633"/>
+Mir wären da keine Aussagen bekannt.
+<Sync time="3712.84"/>
+Im Grunde ist es auch eine Frage von BEREC, von den europäischen Regulierungsbehörden.
+<Sync time="3718.23"/>
+Die müssen jetzt bis Ende des Jahres, wahrscheinlich aber erst Jänner, einen Bericht veröffentlichen, wo sie sich die Implementierung von Netzneutralität in Europa anschauen.
+<Sync time="3728.16"/>
+Der wird sehr spannend sein.
+<Sync time="3730.4"/>
+Da brauchts irgendwie eine schöne Gesamtschau darüber, wie denn dieses Gesetzes, was ja eine Verordnung ist - also einheitlich in allen Ländern gelten muss - ob das auch einheitlich umgesetzt wird.
+<Sync time="3745.11"/>
+Ich glaube der große Zankapfel ist im Moment Zero-Rating.
+<Sync time="3751.85"/>
+Da gab es in Ungarn Entscheidungen, die Zero-Rating klar verboten haben.
+<Sync time="3756.817"/>
+Ich glaube die Ungarn sind die einzigen, die bis jetzt Zero-Rating klar verboten haben, aufgrund des neuen EU-Gesetzes.
+<Sync time="3764.79"/>
+Ich verlinke hier auch die ungarischen Entscheidungen - falls es jemanden gibt, der die übersetzen kann aufs Englische oder Deutsche, wär das cool.
+<Sync time="3771.092"/>
+Im Sinne des Logbuchs muss ich auch noch etwas vermelden was keine gute Neuigkeit ist:
+<Sync time="3779.82"/>
+In den Niederlanden wurde nämlich Zero-Rating-Produkt kürzlich erlaubt.
+<Sync time="3785.71"/>
+Die Niederlande waren ja lange der Vorreiter für Netzneutralität.
+<Sync time="3789.02"/>
+Waren eins der ersten Länder in Europa oder das erste Land, das Netzneutralität gesetzlich abgesichert hat.
+<Sync time="3793.92"/>
+Und T-Mobile hat es in die Niederlanden geschafft, mit ihrem "datafree music" durchzukommen.
+<Sync time="3802.14"/>
+Das ist mehr oder weniger der Musikteil von Stream On, der dort an dem Markt gebracht wurde.
+<Sync time="3809.046"/>
+ACM, die niederländische Regulierungsbehörde, hat diesen Tarif durchgewunken.
+<Sync time="3815.18"/>
+Bits of freedom, die lokale netzpolitische Organisation, hat aber schon angekündigt, dagegen in Berufung zu gehen.
+<Sync time="3821.67"/>
+In den Niederlanden gibt es eine sehr starke Tradition von Netzneutralität.
+<Sync time="3824.486"/>
+Das ist den Leuten dort wichtig, zumindest der Politik, aber eben leider nicht der Regulierungsbehörde.
+<Sync time="3832.02"/>
+Deswegen wird das auch spannend, wie das dann vor Gericht ausgehen wird.
+</Turn>
+<Turn startTime="3837.88" speaker="spkA" mode="planned" channel="studio" endTime="3895.51">
+<Sync time="3837.88"/>
+Ich fasse zusammen: Das ist alles jetzt noch gar nicht gesagt, daß es bei dieser aktuellen Situation bleiben wird.
+<Sync time="3845.717"/>
+Stream On hat Probleme eigentlich auf mehreren Ebenen, auch wenn die Bundesnetzagentur nicht unbedingt das kritisiert hat, was wir so primär sehen.
+<Sync time="3853.363"/>
+Es gibt durchaus schon knifflige Anmerkungen, insbesondere bezüglich des Roamings.
+<Sync time="3860.415"/>
+Derzeit schließt ja der Tarif quasi diesen Betrieb außerhalb Deutschlands aus.
+<Sync time="3865.861"/>
+Da gibt's ja bei der Telekom, ganz unabhängig von Stream On, ähnliche Fälle.
+<Sync time="3870.866"/>
+Wie die von mir schon erwähnte "Dayflat", die man sich schalten kann.
+<Sync time="3874.404"/>
+Man kann ja für 5 € sagen: Jetzt bitte einmal hier unlimitiert - auch das wird im Ausland nicht angeboten.
+<Sync time="3879.411"/>
+Auch wenn ich hörte, daß man, wenn man da über die Hotline geht, da auch schon andere Ergebnisse erzielen kann.
+<Sync time="3885.18"/>
+Auch an der Stelle werden ja hier andere Angebote gemacht, die auf europäischer Ebene dann nicht gelten.
+<Sync time="3891"/>
+Ich könnte mir sogar vorstellen, daß das eigentlich ein ganz mächtiger Hebel ist, oder?
+</Turn>
+<Turn startTime="3895.51" speaker="spkF" mode="planned" channel="studio" endTime="3972.03">
+<Sync time="3895.51"/>
+Ist es.
+<Sync time="3896.789"/>
+Ich würde auch jetzt immer stärker auf den europäischen Vergleich hoffen.
+<Sync time="3900.71"/>
+Deutschland ist einfach wirklich desaströses Schlusslicht.
+<Sync time="3903.489"/>
+Und wenn man hier - wir verlinken auch nochmal - den Digital Fuel Monitor, die haben einen schönen Ländervergleich, wo man auch sieht, wie abgerutscht Deutschland ist im Preis/Volumenvergleich mit allen anderen Ländern in Europa.
+<Sync time="3916.49"/>
+Das Argument, das muss man einfach immer öfter bringen.
+<Sync time="3919.7"/>
+Dann hilft einem einfach auch die Tatsache, daß es immer mehr Tarife rund um Deutschland gibt, die um Welten billiger sind, die viel mehr Volumen anbieten.
+<Sync time="3927.989"/>
+Und wenn immer mehr Leute aus Deutschland dann vielleicht auch mit zwei, drei SIM-Karten aus dem Ausland operieren, kann sein, daß man immer noch billiger aussteigt.
+<Sync time="3937.13"/>
+Das Schöne ist, daß das dann auch den heimischen Netzbetreibern auf der Tasche liegt.
+<Sync time="3942.663"/>
+Die kriegen immer noch diese Vorleistungsentgelte dann - ja stimmt.
+<Sync time="3948.17"/>
+Sie verlieren die Kunden, sie kriegen aber von den ausländischen Providern Geld.
+<Sync time="3952.19"/>
+Aber es braucht hier einfach mehr Druck, daß es eine europäische Angleichung gibt.
+<Sync time="3956.87"/>
+Ich glaube, das Argument muss man einfach immer wieder machen.
+<Sync time="3961.31"/>
+Und wenn uns im Roaming am Ende hilft, irgendwie mehr neutrales Internet für alle zu haben - auch für Deutschland - dann ist es gut.
+</Turn>
+</Section>
+<Section type="report" topic="to6" startTime="3972.03" endTime="4268.25">
+<Turn startTime="3972.03" speaker="spkA" mode="planned" channel="studio" endTime="3980.288">
+<Sync time="3972.03"/>
+Gut, kommen wir zu unserem letzten Punkt.
+<Sync time="3976.68"/>
+Bezieht sich auch noch mal auf die Netzneutralität.
+<Sync time="3978.959"/>
+Ist noch gar nicht unser letzter Punkt.
+</Turn>
+<Turn speaker="spkF" mode="planned" startTime="3980.288" endTime="3986.543">
+<Sync time="3980.288"/>
+Ich will nur kurz auch wieder was positives verlautbaren.
+</Turn>
+<Turn speaker="spkA" mode="planned" startTime="3986.543" endTime="3998.56">
+<Sync time="3986.543"/>
+Das ist gut, du weißt ja unsere Hörer sind ja ohnehin immer schon kräftig gestresst von all den schlechten Nachrichten.
+<Sync time="3993.7"/>
+Da muss man da immer mal wieder auch ein kleines Uplifting-Element einbauen.
+</Turn>
+<Turn startTime="3998.56" speaker="spkF" mode="planned" channel="studio" endTime="4230.73">
+<Sync time="3998.56"/>
+Das ist vor allem etwas glaube ich für die Nerds, vor allem für die Netzwerktechniker/innen.
+<Sync time="4006.28"/>
+Wir haben dieses EU-Gesetz gemacht, dadadada Netzneutralität gibt's jetzt.
+<Sync time="4014.22"/>
+Dann haben wir irgendwie diese Regulierung gemacht auf BEREC-Ebene, jetzt haben wir schöne Netzneutralität.
+<Sync time="4019.31"/>
+Die muss man aber auch umsetzen.
+<Sync time="4021.62"/>
+Wir reden jetzt viel über Zero-Rating.
+<Sync time="4024.289"/>
+Es gibt aber auch technische Diskriminierung.
+<Sync time="4026.308"/>
+Provider können ja auch, wie wird das früher ganz oft hatten, einzelne Dienste blockieren, verlangsamen oder beschleunigen.
+<Sync time="4033.59"/>
+Die sogenannte technische Diskriminierung.
+<Sync time="4035.96"/>
+Damit man da drauf kommt, braucht man Daten und Messsoftware, und da gibt's jetzt eine positive Entwicklung.
+<Sync time="4044.1"/>
+Wer heute irgendwie merkt: dieser eine Dienst ist immer langsam.
+<Sync time="4048.972"/>
+Das Skype ruckelt, WhatsApp geht gar nicht in meinem Mobilfunkvertrag.
+<Sync time="4055.06"/>
+Diese ganzen Phänomene, oder auch das z.B. Bittorrent gedrosselt wird.
+<Sync time="4060.46"/>
+Da gibt es jetzt eben auch eine gute rechtliche Handhabe dagegen in der neuen EU-Verordnung.
+<Sync time="4066.48"/>
+Nur muss man da drauf kommen, man muss technisch messen können, daß das eigene Internet zu eben verlangsamt ist.
+<Sync time="4072.919"/>
+Daß es einzelne Dienste gibt, die schlecht funktionieren.
+<Sync time="4077.45"/>
+Und eben vielleicht auch, daß man gar nicht die Bandbreite bekommen, für die man eigentlich bezahlt.
+<Sync time="4084.83"/>
+Für all diese Fragen braucht man Messsoftware.
+<Sync time="4088.06"/>
+In Deutschland gibt es da die Breitbandmessung der Bundesnetzagentur.
+<Sync time="4091.96"/>
+Die ist meiner Meinung nach desaströs schlecht und so ziemlich eines der schlechtesten Messtools, die es so gibt.
+<Sync time="4098.21"/>
+Es gibt international bessere Software von Measurement Lab und auch von Netztest der RTR.
+<Sync time="4106.08"/>
+Und jetzt gibt es eben auch europaweit ein Projekt für die Erstellung von Messsoftware.
+<Sync time="4113.04"/>
+Das ist was, wo wir uns auch im Hintergrund ganz viel eingebracht haben, wo es auch zwei schriftliche Stellungnahmen von uns gibt.
+<Sync time="4119.46"/>
+Weil: Wie misst man das Internet?
+<Sync time="4121.919"/>
+Man kann da irgendwie eine Black Box hinstellen, wo ich dann auf den Knopf klicke, und dann habe ich eine Geschwindigkeit die am Ende ausgegeben wird.
+<Sync time="4130.47"/>
+Oder, ich mache das alles schön Open Source und Open Data und modular.
+<Sync time="4134.08"/>
+Und BEREC, die europäischen Regulierungsbehörden, haben sich jetzt für zweiteres entschieden.
+<Sync time="4138.34"/>
+Und haben die Spezifizierung herausgegeben, die sehr stark unserer Forderung entspricht, der Zivilgesellschaft entspricht.
+<Sync time="4147.32"/>
+Nämlich, daß man wirklich so ein Open-Source-Messsystem in Europa baut.
+<Sync time="4152.17"/>
+Wo ich die zentrale Meßinfrastruktur habe, wo es einzelne Tests gibt, die geschrieben werden.
+<Sync time="4161.849"/>
+Daß dann wirklich die Kunden, die Nutzer, die Möglichkeit bekommen, ihren Internetanschluss von dem offiziellen Tool zu messen.
+<Sync time="4170.69"/>
+Und das ganze mißt nicht nur die Geschwindigkeit, sondern auch ob gegen einzelne Dienste diskriminiert wird.
+<Sync time="4176.63"/>
+All das fließt in einen europaweiten Open Data-Pool, der offen zur Verfügung steht.
+<Sync time="4181.8"/>
+Das heißt, die Interpretation dieser ganzen Messergebnisse liegt nicht bei den Regulierungsbehörden.
+<Sync time="4187.22"/>
+Das heißt, auch unabhängige Wissenschaftler der Zivilgesellschaft können diese Daten analysieren.
+<Sync time="4193.37"/>
+Das heißt, ein Internetprovider, der auf einmal einzelne Dienste diskriminiert hat immer das Damoklesschwert über den Kopf, daß es Messdaten gibt, die diese Terminierung am Ende belegen können.
+<Sync time="4205.14"/>
+Das ist so ein bissl auch diese alte Vision des Wetterberichts fürs Internet.
+<Sync time="4209.559"/>
+Da soll auch Geld in die Hand genommen werden von der EU-Kommission so ein System zu bauen.
+<Sync time="4216.59"/>
+Aber die Spezifikation, die da er öffentlich wurden letzte Woche, die wir auch verlinken, die sind sehr positiv und deswegen so ein kleines positives Ding noch am Rande zu dem Thema.
+</Turn>
+<Turn startTime="4230.73" speaker="spkA" mode="planned" channel="studio" endTime="4239.34">
+<Sync time="4230.73"/>
+Genau, verlinken wir in den Shownotes, press release und ich glauben ein technisches Dokument auch, was das in etwa beschreibt.
+</Turn>
+<Turn startTime="4239.34" speaker="spkF" mode="planned" channel="studio" endTime="4263.36">
+<Sync time="4239.34"/>
+Das beschreibt den Tinder.
+<Sync time="4240.716"/>
+Das ist irgendwie so die technische Seite.
+<Sync time="4242.705"/>
+Ich verlinke noch irgendwie so die Konsultation und Inputs dazu vorher an den technischen Details.
+<Sync time="4248.25"/>
+Wer sich mit diesem Thema Messungen von Netzneutralitäten von Netzwerken generell beschäftigt, der kann da wirklich ein Blick drauf werfen.
+<Sync time="4257.74"/>
+Wenn es da Meinungen gibt, freuen wir uns auch immer auf einen technischen Austausch.
+</Turn>
+<Turn startTime="4263.36" speaker="spkA" mode="planned" channel="studio" endTime="4268.25">
+<Sync time="4263.36"/>
+Schön.
+<Sync time="4265.37"/>
+So, und dann war noch was mit Memen.
+</Turn>
+</Section>
+<Section type="report" topic="to7" startTime="4268.25" endTime="4426.71">
+<Turn startTime="4268.25" speaker="spkF" mode="planned" channel="studio" endTime="4426.71">
+<Sync time="4268.25"/>
+Das ist so das Thema, was ich hier immer mit reinbringe, auch wenn ich überhaupt kein Urheberrechtsexperte bin.
+<Sync time="4276.403"/>
+Es gibt die Hinterlassenschaft von Günther Oettinger.
+<Sync time="4280.45"/>
+Der hat uns ja ein Urheberrechtsgesetz hinterlassen, daß so ziemlich das schlimmste ist, was man sich vorstellen kann.
+<Sync time="4285.376"/>
+Und da drin enthalten sind auch Uploadfilter.
+<Sync time="4288.999"/>
+Also eine europaweite Zensurinfrastruktur, die hier gebaut werden soll, um Urheberrechtsverstöße zu unterbinden.
+<Sync time="4297.26"/>
+Das kann man sich so vorstellen:
+<Sync time="4298.554"/>
+Es gibt dann ein oder zwei große Anbieter von solchen Uploadfiltern in Europa.
+<Sync time="4306.785"/>
+Und auf jedem Wikipedia-Eintrag, auf jeder E-Learningplattform, auf jedem Preisvergleichsportal, wo ich Fotos hochlade, werden dann irgendwie meine Bilder, meine Musik und meine Videos gegen diese Uploadfilter getestet, ob da ja auch keine Urheberrechtsverletzung drin ist.
+<Sync time="4323.69"/>
+Und so eine globale Zensurinfrastruktur soll in Europa Gesetz werden.
+<Sync time="4329.02"/>
+Die relevante Abstimmung im JURI-Ausschuss des Europaparlaments ist für November angesetzt.
+<Sync time="4337.11"/>
+Es ist dringend notwendig, daß man sich da einbringt.
+<Sync time="4341.17"/>
+Wir verlinken die relevanten Kampagnen wo man das tun kann:
+<Sync time="4346.279"/>
+Save the Meme und Change Copyright sind die zwei Pole Positions da.
+<Sync time="4351.214"/>
+Es gibt ganz viele Kampagnen, wir verlinken alles was man braucht um sich zu informieren und aktiv zu werden.
+<Sync time="4357.01"/>
+Wie gesagt, das ist nicht mein Kerngebiet, ich bin ja nicht Experte - aber ich verstehe genug um zu sehen, daß das wirklich so das worst-case-Gesetz wäre was auf EU-Ebene durchkommen könnte.
+<Sync time="4371.14"/>
+Da aktiv zu werden wäre auf jeden Fall hilfreich.
+<Sync time="4374.48"/>
+Julia Reda ist da irgendwie die Helden, die sich im Europaparlament für uns einsetzt
+<Sync time="4379.22"/>
+Man müsste da wirklich noch bei den Abgeordneten ihnen ins Gewissen reden.
+<Sync time="4385.78"/>
+Die Verhandlungen laufen jetzt gerade zu diesem Gesetz, und wir müssen schauen, daß wir da diese Uploadfilter noch gestrichen bekommen.
+<Sync time="4394.796"/>
+Ansonsten haben wir bald so eine Infrastruktur wie in Russland oder in China.
+<Sync time="4401.46"/>
+Das ist auch immer für die Wikipedia sehr hart.
+<Sync time="4404.192"/>
+Die wurden nur von diesen zwei Ländern gefragt, ob sie solche Upload Filter einbauen wollen.
+<Sync time="4410.17"/>
+Sie haben es in beiden Fällen abgelehnt, und jetzt kommt Europa mit einem Gesetz daher, das genau das verlangt.
+<Sync time="4416.56"/>
+Das ist so die Tragweite von diesem Gesetz, und deswegen wär es wirklich wichtig, daß sich da netzpolitisch interessierte Menschen noch einbringen.
+</Turn>
+</Section>
+<Section type="report" topic="to8" startTime="4426.71" endTime="4558.91">
+<Turn startTime="4426.71" speaker="spkA" mode="planned" channel="studio" endTime="4444.17">
+<Sync time="4426.71"/>
+Seufz.
+<Sync time="4429.62"/>
+Ich mache jetzt mal keine Musik.
+<Sync time="4431.347"/>
+Wir haben noch einen Termin der euch betrifft, haben wir ja auch schon mal erwähnt.
+<Sync time="4435.21"/>
+Kann man noch mal erwähnen, weil nächste Woche die Privacy Week findet statt.
+<Sync time="4439.544"/>
+Bist du da auch engagiert und Teil davon?
+<Sync time="4443.081"/>
+Ich geh mal schwer davon aus.
+</Turn>
+<Turn startTime="4444.17" speaker="spkF" mode="planned" channel="studio" endTime="4462.77">
+<Sync time="4444.17"/>
+Ja, wir sind da auch vertreten.
+<Sync time="4446.275"/>
+Es gibt ein Programm.
+<Sync time="4447.44"/>
+Es ist so das größte netzpolitische Event in Österreich, und wer in Wien ist nächste Woche - die Woche vom 23. Oktober - der kann da mal vorbeischauen im Volkskundemuseum.
+<Sync time="4459.987"/>
+privacyweek.at
+</Turn>
+<Turn startTime="4462.77" speaker="spkA" mode="planned" channel="studio" endTime="4491.27">
+<Sync time="4462.77"/>
+Für mich wird es mal wieder schwierig, ich habe erneut meine eigene Veranstaltung.
+<Sync time="4468.89"/>
+Vom Zeitrahmen her, vielleicht bekomm da noch einen Tag irgendwo rausgequetscht.
+<Sync time="4474.107"/>
+Sieht aber gerade nicht so danach aus.
+<Sync time="4477.11"/>
+Die Subscribe, falls es jemanden noch interessiert, der noch am Podcastgeschehen Interesse hat - es ja hier durchaus auch noch ein Randaspekt dieser Sendung - dann gibt's da das entsprechende Angebot noch in München.
+<Sync time="4487.99"/>
+Noch gibt's Karten.
+</Turn>
+<Turn startTime="4491.27" speaker="spkF" mode="planned" channel="studio" endTime="4506.99">
+<Sync time="4491.27"/>
+Wer auf den Datenspuren in Dresden ist, oder auf dem Mozfest in London - je nachdem wann diese Sendung erscheint, und ihr seht mich, dann sprich mich doch an.
+<Sync time="4503.566"/>
+Ich freue mich auch immer wenn ich Hörerinnen und Hörer kennenlerne.
+</Turn>
+<Turn startTime="4506.99" speaker="spkA" mode="planned" channel="studio" endTime="4516.81">
+<Sync time="4506.99"/>
+Datenspuren ist jetzt dieses Wochenende 21.-22. Oktober
+<Sync time="4513.98"/>
+Privacy week ist..
+</Turn>
+<Turn startTime="4516.81" speaker="spkF" mode="planned" channel="studio" endTime="4524.77">
+<Sync time="4516.81"/>
+23. die ganze Woche bis 29.
+</Turn>
+<Turn startTime="4524.77" speaker="spkA" mode="planned" channel="studio" endTime="4526.33">
+<Sync time="4524.77"/>
+Und was hattest du eben gerade noch erwähnt?
+</Turn>
+<Turn startTime="4526.33" speaker="spkF" mode="planned" channel="studio" endTime="4558.91">
+<Sync time="4526.33"/>
+Die Mozfest.
+<Sync time="4527.779"/>
+Mozilla hat auch ein Event in London.
+<Sync time="4531.949"/>
+Ich weiß nicht, ob wir Hörer in London haben, aber das ist auf jeden Fall auch irgendwie ein sehr lustiges, nerdiges Event, wo es auch stark um Netzneutralität geht.
+<Sync time="4542.974"/>
+Da bin ich auch, falls irgendwelche Leute in London sind.
+<Sync time="4546.592"/>
+Ich mag diese Stadt sehr, jetzt wo man da noch hinfahren kann.
+<Sync time="4549.54"/>
+Das ist auch das nächste Wochenende, also vom 27. bis 29. Oktober in Ravensburg College in London.
+</Turn>
+</Section>
+<Section type="report" topic="to9" startTime="4558.91" endTime="4659.620">
+<Turn startTime="4558.91" speaker="spkA" mode="planned" channel="studio" endTime="4566.92">
+<Sync time="4558.91"/>
+Alles klar.
+<Sync time="4563.84"/>
+Gut, Thomas.
+<Sync time="4565.59"/>
+Ich glaube, dann haben wir es.
+</Turn>
+<Turn startTime="4566.92" speaker="spkF" mode="planned" channel="studio" endTime="4569.54">
+<Sync time="4566.92"/>
+Ja
+</Turn>
+<Turn startTime="4569.54" speaker="spkA" mode="planned" channel="studio" endTime="4620.31">
+<Sync time="4569.54"/>
+Vielen vielen Dank für die Auskünfte.
+<Sync time="4572.115"/>
+Wir bleiben natürlich da am Draht, und schauen was da noch so geht.
+<Sync time="4579.59"/>
+Bisher haben wir ja eigentlich auch eine ganze Menge bekämpft bekommen.
+<Sync time="4583.21"/>
+Ich glaube die Karten stehen, zumindest was Netzneutralität betrifft, nicht so schlecht weil das alles so ein bisschen nach Auslaufmodell auch aussieht.
+<Sync time="4592.103"/>
+Das sind noch so Kämpfe, die hier gefochten werden.
+<Sync time="4597.7"/>
+In dem Moment, wo einfach die Bandbreiten sich da anheben und es einfach eine Normalität wird, daß einfach - zumindest für diesen normalen Audio/Videobedarf - einfach genug Netz da ist für alle, dann wird sich diese Verknappung auch nicht weiter durchhalten lassen.
+</Turn>
+<Turn startTime="4620.31" speaker="spkF" mode="planned" channel="studio" endTime="4647.75">
+<Sync time="4620.31"/>
+Das sehe ich genauso.
+<Sync time="4621.168"/>
+Ich hoffe auch, daß wir irgendwie --
+<Sync time="4623.314"/>
+Netzneutralität ist von allen netzpolitischen Themen das, was man noch am ehesten wirklich lösen kann.
+<Sync time="4629.93"/>
+Das ist nicht so komplex, da reden wir nicht von Geheimdiensten und Urheberrechtsindustrie.
+<Sync time="4633.96"/>
+Eigentlich, es sind nur Telekomkonzerne.
+<Sync time="4636.89"/>
+Und es ist eigentlich ein Verteilungsproblem.
+<Sync time="4638.936"/>
+Mit Glas und genügend Kapazität ließe sich das alles lösen.
+<Sync time="4643.83"/>
+Ich hoffe auch, daß wir irgendwann nicht mehr über dieses Thema reden müssen.
+</Turn>
+<Turn startTime="4647.75" speaker="spkA" mode="planned" channel="studio" endTime="4653.45">
+<Sync time="4647.75"/>
+Ja, das glaube ich übrigens auch.
+<Sync time="4649.78"/>
+Jetzt hören wir auf jeden Fall erst mal auf damit.
+<Sync time="4651.779"/>
+Ich sag tschüss -
+</Turn>
+<Turn speaker="spkF" mode="planned" startTime="4653.45" endTime="4654.4">
+<Sync time="4653.45"/>
+Ciao ciao.
+</Turn>
+<Turn speaker="spkA" mode="planned" startTime="4654.4" endTime="4659.620">
+<Sync time="4654.4"/>
+an alle Hörer, bis bald.
+</Turn>
+</Section>
+</Episode>
+</Trans>
