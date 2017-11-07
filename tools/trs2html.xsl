@@ -10,6 +10,11 @@
   <meta charset="utf-8"/>
   <title>Transcript of <xsl:value-of select="@audio_filename"/></title>
   <meta name="generator" content="trs2html"/>
+  <script type="text/javascript">
+   function playAt(time) {
+       alert("Playing at " + time);
+   }
+  </script>
   <style type="text/css">
 .transcript .turn {
     padding-left: 11em;
@@ -22,6 +27,7 @@
 .transcript a.play {
     text-decoration: none;
     opacity: 0.3;
+    /*display: none;*/
 }
 .transcript .turn p:hover a.play {
     opacity: 1;
@@ -53,11 +59,14 @@
     </p>
 
     <xsl:for-each select="Sync">
-     <xsl:variable name="seconds">
-      <xsl:number value="@time"/>
+     <xsl:variable name="seconds" select="floor(@time mod 60)" />
+     <xsl:variable name="minutes" select="floor(@time div 60) mod 60" />
+     <xsl:variable name="hours" select="floor((@time div 60) div 60)" />
+     <xsl:variable name="time">
+      <xsl:value-of select="$hours"/>:<xsl:value-of select="$minutes"/>:<xsl:value-of select="$seconds"/>
      </xsl:variable>
      <p>
-      <a href="#t={$seconds}" class="play">&#9654;</a>
+      <a href="#" onclick="javascript:playAt('{$time}');return false" class="play">&#9654;</a>
       <xsl:value-of select="following-sibling::text()"/>
      </p>
     </xsl:for-each>
