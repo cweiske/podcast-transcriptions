@@ -46,3 +46,7 @@ How-To
 
 7. Transkript in transcriber korrigieren.
    Dauerte bei mir 2:1, ~20 Minuten für 10 Minuten Podcast.
+
+8. Fertiges Transcript in HTML umwandeln::
+
+     $ xsltproc -o final-transcript.html tools/trs2html.xsl 6-final-transcript.trs
