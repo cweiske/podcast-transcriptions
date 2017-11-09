@@ -40,13 +40,15 @@ How-To
 5. In der Sprechersegmentierung werden viel zu viele unterschliedliche Sprecher erkannt.
    In transcriber die Sprecher benennen und auf die echten reduzieren - ``4-correctspeakers.trs``
 
-6. Von transcriber eingefügte Pausen und aufeinanderfolgende "Turns" zusammenfügen::
+6. In transcriber die Kapitelmarken einfügen
+
+7. Von transcriber eingefügte Pausen und aufeinanderfolgende "Turns" zusammenfügen::
 
      $ ./tools/trs-compact.php 4-correctspeakers.trs > 5-compact-transcript.trs
 
-7. Transkript in transcriber korrigieren.
+8. Transkript in transcriber korrigieren.
    Dauerte bei mir 2:1, ~20 Minuten für 10 Minuten Podcast.
 
-8. Fertiges Transcript in HTML umwandeln::
+9. Fertiges Transcript in HTML umwandeln::
 
      $ xsltproc -o final-transcript.html tools/trs2html.xsl 6-final-transcript.trs
