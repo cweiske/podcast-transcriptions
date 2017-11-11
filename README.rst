@@ -52,3 +52,29 @@ How-To
 9. Fertiges Transcript in HTML umwandeln::
 
      $ xsltproc -o final-transcript.html tools/trs2html.xsl 6-final-transcript.trs
+
+
+======
+Status
+======
+
+Fertig
+======
+- LNP232 Der böse Kleber aus Deutschland
+
+In Arbeit
+=========
+
+
+Todo
+====
+- LNP234 Mein Weg aus der Beschaffungskriminalität
+- LNP233 Das Internet setzt sich endlich durch
+- LNP231 Chronische Bitknappheit
+- LNP230 Angst essen Seele auf
+- LNP229 Deine Sandburg ist auf Sand gebaut
+- LNP228 Interessierte Bürger
+- LNP227 Magenta Terrorfrei
+- LNP226 Merkelsche Rück
+- LNP225 Dringende Bitte
+- LNP224 Mit dem Abgriff in Frankfurt wird das alles in Ordnung kommen
